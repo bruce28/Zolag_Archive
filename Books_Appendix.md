@@ -11,7 +11,7 @@ gain insight into the Buddhist scriptures and the way in which the
 teachings can be used to benefit both ourselves and others in everyday
 life.
 
-- **Cetasikas88 Cetasika means 'belonging to the mind'. It is a mental
+- **Cetasikas** Cetasika means 'belonging to the mind'. It is a mental
 factor which accompanies consciousness (citta) and experiences an
 object. There are 52 cetasikas. This book gives an outline of each
 of these 52 cetasikas and shows the relationship they have with each
