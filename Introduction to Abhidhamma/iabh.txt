@@ -1,0 +1,2021 @@
+Table of Contents
+*****************
+
+Introduction to the Abhidhamma
+1 Introduction to the Abhidhamma
+2 Ultimate Truth and Conventional Truth
+3 Dhamma in Detail
+4 Abhidhamma in the Sutta
+5 Citta
+6 Citta and Cetasikas
+7 Kamma and result
+8 Rootless Cittas
+9 The Experience of Objects through different doorways
+10 Life-continuum, bhavanga-citta
+11 Feelings (part 1)
+12 Feelings (part 2)
+13 The four Great Elements
+14 The Eight Inseparable Rūpas
+15 The Sense organs
+16 The Five Khandhas
+17 The World
+18 Death and Rebirth
+19 Rebirth in different planes of existence (1)
+20 Rebirth in different Planes of Existence (2)
+21 Accumulated inclinations
+22 Four Planes of Consciousness (part 1)
+23 The Four Planes of Consciousness (part 2)
+24 Latent Tendencies
+25 The Seven Books of the Abhidhamma
+26 Introduction
+27 The Dhammasaṅganī, the first Book of the Abhidhamma
+28 The Vibhaṅga, the Second Book of the Abhidhamma
+29 The Dhātu-Kathā, the Third Book
+30 Puggalapaññatti, the fourth Book
+31 Kathāvatthu, the Fifth Book
+32 Yamaka, the Sixth Book of the Abhidhamma
+33 The Paṭṭhāna, the seventh book of the Abhidhamma
+34 Conclusion
+
+
+by Nina van Gorkom
+
+   Updated 12/4/11
+
+   This work is licensed under the Creative Commons
+Attribution-NoDerivs 3.0 Unported License. To view a copy of this
+license, visit http://creativecommons.org/licenses/by-nd/3.0/ or send a
+letter to Creative Commons, 171 Second Street, Suite 300, San
+Francisco, California, 94105, USA.
+
+   $Id: iabh.texi,v 1.2 2011/04/12 07:43:20 alan Exp alan $
+
+Introduction to the Abhidhamma
+******************************
+
+1 Introduction to the Abhidhamma
+********************************
+
+The Buddha taught conventional truth, sammutti sacca, and ultimate
+truth, paramattha sacca. The Commentary to the “Middle Length
+Sayings”, sutta 5, “No Blemishes”, states:
+
+     “There is a twofold teaching of the Buddha, the Blessed One: the
+     teaching in the conventional way and the teaching by way of
+     ultimate realities. There is a human, a being, a woman, a man, a
+     man of the warrior caste, a brahman, a god, and Mara. Such is the
+     teaching in the conventional way. Impermanence, dukkha, anattā,
+     the aggregates, elements, sensefields (āyatana),
+     satipaṭṭhāna. Such is the teaching by way of ultimate
+     realities. Here the Blessed One taught to those in the
+     conventional way who by means of it, after having heard the
+     teaching , penetrated the meaning and abandoned ignorance, and
+     were skilled to attain distinction. But who by means of ultimate
+     realities, after having heard the teaching, penetrated the meaning
+     and abandoned ignorance, and were skilled to attain distinction,
+     to those he taught by way of ultimate realities.”
+
+   In the Suttanta we find the teaching in conventional way, but also
+the teaching by way of ultimate realities. When the Buddha spoke in the
+suttas about situations and people, he pointed to the truth of
+impermanence, dukkha and anattā. He knew the dispositions of different
+beings and which kind of teaching was most suitable for them. The
+teaching of the Abhidhamma is mainly by way of ultimate realities,
+paramattha dhammas. In order to have understanding of the Abhidhamma it
+is essential to know the difference between ultimate realities,
+paramattha dhammas, and concepts, paññatti, such as a person or a
+tree.
+
+2 Ultimate Truth and Conventional Truth
+***************************************
+
+Through the Buddhist teachings we learn that what we take for
+“self”, for “our mind” and for “our body”, consists of
+changing phenomena. That part of the Buddhist teachings which is the
+“Abhidhamma” enumerates and classifies all phenomena of our life:
+mental phenomena or nāma and physical phenomena or rūpa. Seeing is
+nāma, it experiences visible object through the eye-door. Visible
+object or colour is rūpa, it does not experience anything. The
+eyesense, that functions as the eye-door through which visible object
+is experienced, is also rūpa. The rūpas that are sense objects,
+namely, visible object, sound, smell, flavour and tangible object, and
+also the rūpas that are the sense organs of eyes, ears, nose, tongue
+and bodysense, are conditions for the nāmas to experience objects.
+Nāma and rūpa are interrelated. Nāma and rūpa are ultimate
+realities. We should know the difference between ultimate truth,
+paramattha sacca, and conventional truth, sammutti sacca. Ultimate
+truth is not abstract. Ultimate realities, in Pāli: paramattha
+dhammas, have each their own characteristic which cannot be changed. We
+may change the name, but the characteristic remains the same. Seeing is
+an ultimate reality, it experiences visible object which appears
+through the eyes; it is real for everyone, it has its own unalterable
+characteristic. Anger has its own characteristic, it is real for
+everyone, no matter how we name it. Ultimate realities can be directly
+experienced when they appear through eyes, ears, nose, tongue,
+bodysense or mind. They arise because of their appropriate conditions.
+Conventional truth is the world of concepts such as person, tree or
+animal. Before we learnt about Buddhism, conventional truth, the world
+of concepts, was the only truth we knew. It is useful to examine the
+meaning of concept, in Pāli: paññatti. The word concept can stand
+for the name or term that conveys an idea and it can also stand for the
+idea itself conveyed by a term. Thus, the name “tree” is a concept,
+and also the idea we form up of “tree” is a concept. We can think
+of concepts, but they are not realities that can be directly
+experienced, without having to name them.
+
+3 Dhamma in Detail
+******************
+
+In all three parts of the Tipiṭaka we are taught about “dhamma”,
+about everything which is real. Seeing is a dhamma, it is real. Colour
+is a dhamma, it is real. Feeling is a dhamma, it is real. Our
+defilements are dhammas, they are realities. When the Buddha attained
+enlightenment he clearly knew all dhammas as they really are. He taught
+us the “Dhamma", the teaching on realities, in order that we also may
+know dhammas as they are. Without the Buddha's teaching we would be
+ignorant of reality. We are inclined to take for permanent what is
+impermanent, for pleasant what is sorrowful and unsatisfactory
+(dukkha), and for “self” what is non-self. The aim of all three
+parts of the Tipiṭaka is to teach people the development of the way
+leading to the end of defilements. In the Suttanta, the
+“Discourses”, the Dhamma is explained to different people at
+different places on various occasions. The Buddha taught about all
+realities appearing through the “six doors” of eyes, ears, nose,
+tongue, bodysense and mind. He taught about cause and effect and about
+the practice leading to the end of all sorrow. As regards the
+Abhidhamma, this is an exposition of all realities in detail. The
+prefix “abhi” is used in the sense of “preponderance” or
+“distinction”. “Abhidhamma” means “higher Dhamma” or
+“Dhamma in detail”. The form of this part of the Tipiṭaka is
+different, but the aim is the same: the eradication of wrong view and
+eventually of all defilements. Thus, when we study the many
+enumerations of realities, we should not forget the real purpose of our
+study. The intellectual understanding of realities (pariyatti) should
+encourage us to the practice (paṭipatti) which is necessary for the
+realization of the truth (paṭivedha). While we are studying the
+different mental phenomena (nāmas) and physical phenomena (rūpas) and
+while we are pondering over them, we can be reminded to be aware of the
+nāma and rūpa which appear at that moment. In this way we will
+discover more and more that the Abhidhamma explains everything which is
+real, that is, the “worlds” appearing through the six doors of the
+senses and the mind.
+
+4 Abhidhamma in the Sutta
+*************************
+
+In the Anguttara Nikāya, Book of the Ones (Ch VIII, § 4) we read
+about right understanding as being the most precious in life - that
+which doesn't bring sorrow:
+
+     “Of slight account, monks, is the loss of such things as
+     relatives. Miserable indeed among losses is the loss of wisdom. Of
+     slight account, monks, is the increase of such things as
+     relatives. Chief of all the increases is that of wisdom... Of
+     slight account, monks, is the loss of such things as wealth.
+     Miserable indeed among losses is the loss of wisdom. Of slight
+     account, monks, is the increase of such things as wealth. Chief of
+     all the increases is that of wisdom... “Of slight account,
+     monks, is the loss of such things as reputation. Miserable indeed
+     among losses is the loss of wisdom. Of slight account, monks, is
+     the increase of such things as reputation. Chief of all the
+     increases is that of wisdom. Wherefore I say, monks, you should
+     train yourselves thus: We will increase in wisdom. You must train
+     yourselves to win that.”
+
+   This sutta is an exhortation to develop right understanding of
+realities. Understanding of realities is the most precious in life, as
+the above-quoted sutta states. Sutta reading is not easy and we have to
+carefully consider each word of the sutta. We have to know what kind of
+understanding is meant in this sutta. The Buddha pointed to the
+development of understanding of all realities in daily life, no matter
+he taught Sutta or Abhidhamma. The Abhidhamma helps us to understand
+the deep meaning of the suttas. We may be inclined to overlook the
+implications of the meaning of understanding, when we read that
+understanding is the most precious of all. We have to know what kind of
+understanding, understanding of which objects. Also in the suttas the
+Buddha teaches to develop right understanding of ultimate realities,
+but in the suttas the Buddha mostly speaks about people’s situations
+in daily life, about their clinging to pleasant objects, and the sorrow
+caused by clinging. He spoke in conventional terms in order to help
+people to understand what is true in the ultimate sense. Whatever
+reality arises does so because of the proper conditions. The
+conditioned realities of our life are citta, consciousness, cetasika,
+mental factors arising with the citta and rūpa, physical phenomena.
+These are three conditioned paramattha dhammas. There is no person, no
+self who sees, clings, feels sadness; there are only nāma, mental
+phenomena, and physical phenomena, rūpa. In the above-quoted sutta we
+are reminded that right understanding is more precious than people we
+hold dear or possessions. It is the understanding that whatever occurs
+in life, be it pleasant or unpleasant, are only conditioned dhammas.
+When we suffer the loss of dear people we should remember that also
+sadness is a conditioned dhamma, a cetasika, mental factor, arising
+with akusala citta. It only lasts for one moment, it falls away and
+then there is a next moment of consciousness. At the moment of seeing
+there is no sadness at the same time; seeing experiences a different
+object: visible object. Each citta only experiences one object at a
+time. Through the Abhidhamma we are reminded all the time that there is
+no person who clings, no person who suffers, that only citta and the
+accompanying cetasikas experience different objects, be these
+unpleasant or pleasant. There is no person who develops understanding;
+understanding, paññā, is a cetasika that can only arise when there
+are the appropriate conditions for it. The Abhidhamma is not a theory
+one finds in a textbook; the teaching of the Abhidhamma is about all
+the realities that appear at this moment. The Abhidhamma teaches about
+seeing, about thinking of what was seen, about all the defilements
+arising on account of what is experienced through the senses and the
+mind-door.
+
+5 Citta
+*******
+
+The truth is different from what we always assumed. What we take for a
+person are only nāmas, mental phenomena, and rūpas, physical
+phenomena, that arise and fall away. Nāma and rūpa are real in the
+ultimate sense, they are different from concepts such as person or
+animal. Citta, consciousness, and cetasika, mental factor arising with
+the citta, are both nāma. They experience different objects.
+It is not a self or a person who experiences something, it is citta
+that cognizes an object. Citta experiences only one object and then it
+falls away to be succeeded by the next citta. We may have thought that
+there is one consciousness that lasts, that can see, hear and think,
+but this is not so. Only one citta arises at a time: at one moment a
+citta that sees arises, at another moment a citta that hears arises.
+Each citta lasts only for an extremely short time and then it falls
+away. The five senses and the mind are the doorways through which citta
+can cognize the different objects which present themselves. Each citta
+experiences an object, in Pāli: ārammaṇa. Knowing or experiencing
+an object does not necessarily mean thinking about it. The citta which
+sees has what is visible as object; it is different from the cittas
+which arise afterwards, such as the cittas which know what it is that
+was perceived and which think about it. The citta which hears
+(hearing-consciousness) has sound as its object. Even when we are sound
+asleep and not dreaming, citta experiences an object. There isn't any
+citta without an object. There are many different types of citta which
+can be classified in different ways. Some cittas are kusala
+(wholesome), some are akusala (unwholesome). Kusala cittas and akusala
+cittas are cittas which are cause; they can motivate wholesome or
+unwholesome deeds through body, speech or mind which are able to bring
+about their appropriate results. Some cittas are the result of
+wholesome or unwholesome deeds, they are vipākacittas. Some cittas are
+neither cause nor result; they are kiriyacittas (sometimes translated
+as “inoperative"). Cittas can be classified by way of jāti (jāti
+literally means “birth” or “nature”). There are four jātis:
+
+   * kusala
+
+   * akusala
+
+   * vipāka
+
+   * kiriya
+
+   Both kusala vipāka (the result of a wholesome deed) and akusala
+vipāka (the result of an unwholesome deed) are one jāti, the jāti of
+vipāka. It is important to know which jāti a citta is. We cannot
+develop wholesomeness in our life if we take akusala for kusala or if
+we take akusala for vipāka. For instance, when someone speaks
+unpleasant words to us, the moment of experiencing the sound
+(hearing-consciousness) is akusala vipāka, the result of an
+unwholesome deed we performed ourselves. The aversion which may arise
+very shortly afterwards is not vipāka, but it arises with akusala
+citta. Aversion or anger, dosa, can motivate unwholesome action or
+speech. We can learn to distinguish these moments from each other by
+realizing their different characteristics. When we have understood that
+cittas both of ourselves and others arise because of conditions we
+shall be less inclined to dwell for a long time on someone else’s
+behaviour. In the ultimate sense there is no person to be blamed and no
+person who receives unpleasant results. In reality there are only
+citta, cetasika and rūpa that arise because of their own conditions.
+
+6 Citta and Cetasikas
+*********************
+
+Citta does not arise singly, it is always accompanied by cetasikas,
+mental factors. Only one citta arises at a time and each citta is
+accompanied by several cetasikas. Citta is the leader in cognizing an
+object and the accompanying cetasikas have each their own function
+while they assist citta in cognizing an object. Citta may be of one of
+the four jātis of kusala, akusala, vipāka or kiriya. Cetasikas are of
+the same jāti as the citta they accompany. Some cetasikas, such as
+feeling and remembrance or “perception” (saññā), accompany each
+citta, others do not. Feeling, in Pāli: vedanā, is a cetasika which
+arises with every citta. Citta only knows or experiences its object; it
+does not feel. Feeling, vedanā, however, has the function of feeling.
+Feeling is sometimes pleasant, sometimes unpleasant. When we do not
+have a pleasant or an unpleasant feeling, there is still feeling: at
+that moment the feeling is neutral or indifferent. Perception or
+remembrance, in Pāli: saññā, marks the object so that it can be
+recognized later on. Whenever we remember something it is saññā, not
+self, which remembers. It is saññā which, for example, remembers
+that this colour is red, that this is a house, or that this is the
+sound of a bird. Contact, in Pāli: phassa, is another cetasika which
+arises with every citta; it “contacts” the object so that citta can
+experience it. There are also types of cetasika which do not arise with
+every citta. Unwholesome mental factors, akusala cetasikas, accompany
+only akusala cittas, whereas sobhana cetasikas, “beautiful” mental
+factors, accompany kusala cittas. Among the cetasikas which can
+accompany akusala cittas or kusala cittas, some are roots, hetus. A
+root or hetu is the foundation of the akusala citta or kusala citta,
+just as the roots are the foundation of a tree. They give a firm
+support to the citta and cetasikas they arise together with. There are
+three cetasikas which are unwholesome roots, akusala hetus: attachment
+(lobha), aversion (dosa) and ignorance (moha). Akusala cittas may be
+rooted in moha and lobha, or in moha and dosa, or they may have moha as
+their only root. Moha arises with each akusala citta. Moha is
+blindness, it does not know the danger of akusala; it is the root of
+all evil. There are three sobhana hetus, beautiful roots:
+non-attachment (alobha), non-aversion (adosa), and wisdom (paññā).
+All kusala cittas are rooted in non-attachment and non-aversion, and
+they may or may not be rooted in wisdom, paññā. There are many
+shades and degrees of the akusala hetus and the sobhana hetus. Akusala
+citta is impure and it leads to sorrow. At the moment of akusala citta
+there is no confidence in wholesomeness; one does not see that akusala
+citta is impure and harmful. For example, when we see a pleasant sight,
+akusala cittas with attachment tend to arise. At such a moment there is
+“unwise attention” to the object which is experienced; we are
+enslaved to that object and do not see the danger of akusala. Thus we
+go on accumulating more and more akusala. We may find it difficult to
+see that even when we do not harm or hurt others, the citta can still
+be akusala. For example, when we like nature, there is a degree of
+attachment and attachment is not kusala, it is different from
+unselfishness. We may see the danger of akusala which is coarse, but it
+is difficult to see the danger of akusala which is more subtle. However
+through the study of the Dhamma we can acquire more understanding of
+akusala dhammas and then we may begin to see the danger of all degrees
+of akusala. Whenever the citta is not intent on wholesomeness, we act,
+speak or think with akusala citta. We may not have unkind thoughts or
+thoughts of coarse desire, but the cittas which think can still be
+akusala cittas; they are akusala cittas whenever we do not think
+wholesome thoughts. We think time and again of people, of things which
+have happened or will happen, and we should find out for ourselves when
+thinking is kusala and when akusala. When the citta is kusala, there is
+confidence in wholesomeness. Confidence, or faith, saddhā, is a
+sobhana cetasika. Each kusala citta is assisted by many sobhana
+cetasikas. When we see the value of kusala, there are conditions for
+the arising of kusala citta. Kusala citta is pure and it is capable of
+producing a pleasant result. Defilements and wholesome qualities are
+cetasikas, they are non-self. They are not listed just to be read and
+memorized, they are realities of daily life and they can be known as
+they are by being mindful of them.
+
+7 Kamma and result
+******************
+
+As we have seen, three cetasikas are unwholesome roots, akusala hetus:
+attachment (lobha), aversion (dosa) and ignorance (moha). Three
+cetasikas are beautiful roots, sobhana hetus: non-attachment,(alobha),
+non-aversion, (adosa) and wisdom (paññā). Unwholesome roots, akusala
+hetus, can motivate ill deeds through body, speech or mind. Ill deeds
+are called in Pāli: akusala kamma. Kamma is the cetasika (mental
+factor arising with the citta) which is intention or volition, in Pali:
+cetanā. However, the word “kamma" is also used in a more general
+sense for the deeds which are intended by cetanā. The term kamma-patha
+(literally “course of action") is used as well in this sense. There
+are akusala kamma-pathas and kusala kamma-pathas, ill deeds and good
+deeds, accomplished through body, speech and mind. As regards akusala
+kamma-patha, there are ten akusala kamma-pathas and these are
+conditioned by lobha, dosa and moha. They are: killing, stealing,
+sexual misbehaviour, lying, slandering, rude speech, frivolous talk,
+covetousness, ill-will and wrong view (diṭṭhi). Beautiful roots,
+sobhana hetus, motivate good deeds such as generosity, abstention from
+ill deeds, mental development which includes samatha and vipassanā.
+Whatever conduct we follow in daily life is conditioned by the
+wholesome or unwholesome roots accumulated from life to life. There is
+no self who can determine to do wrong or to do what is right, it is
+conditioned by the roots and many other factors. Each moment, whatever
+we do, is conditioned. When we are generous, helping others or paying
+respect, we may believe that there are only kusala cittas. However,
+what we take for wholesome may be motivated by akusala, such as conceit
+or being intent on some advantage for ourselves. Kusala cittas and
+akusala cittas alternate in our life. This shows how deeply rooted
+defilements are. Kamma is a mental activity which can be accumulated.
+Since cittas that arise and fall away succeed one another in an
+unbroken series, the force of kamma is carried on from one moment of
+citta to the next moment of citta, from one life to the next life. In
+this way kamma is capable to produce its result later on. A good deed,
+kusala kamma, can produce a pleasant result, and an evil deed can
+produce an unpleasant result. Kamma produces result at the first moment
+of life: it produces rebirth-consciousness in a happy plane of
+existence such as the human plane or a heavenly plane, or in an unhappy
+plane of existence such as a hell plane or the animal world. Throughout
+our life kamma produces seeing, hearing and the other sense-impressions
+that are vipākacittas, cittas that are results. Vipākacittas are
+neither kusala cittas nor akusala cittas. Seeing a pleasant object is
+the result of kusala kamma and seeing an unpleasant object is the
+result of akusala kamma. If there is right understanding of the citta
+that is cause and the citta that is result we shall know the meaning of
+anattā. We shall come to understand that there is no self who can
+cause the arising of pleasant or unpleasant experiences through the
+senses. Due to kamma gain and loss, praise and blame alternate in our
+life.
+
+8 Rootless Cittas
+*****************
+
+Each citta experiences an object. There is not only one type of citta,
+but there is a great diversity of cittas that experience objects. If we
+want to know ourselves we should not merely know the moments of akusala
+cittas or kusala cittas but other moments as well. Kusala cittas and
+akusala cittas are cittas that are cause, they can motivate good or
+evil deeds, and these deeds can produce their appropriate results later
+on. Kusala cittas and akusala cittas are accompanied by cetasikas that
+are roots, hetus. As we have seen, three of these hetus are akusala;
+they are: lobha (attachment), dosa (aversion) and moha (ignorance).
+Three hetus are sobhana (beautiful); they are: alobha (greedlessness or
+generosity), adosa (non-hate or loving kindness) and amoha (paññā or
+wisdom). The citta or cetasika which is accompanied by a hetu is
+sahetuka (“sa” means “with”). For example, dosa-mūla-citta,
+citta rooted in dosa, is sahetuka; moha and dosa are the hetus which
+arise with dosa-mūla-citta. There are also cittas that are rootless,
+ahetuka. There are many ahetuka cittas arising in a day. Seeing,
+hearing, smelling, tasting and the experience of tangible object
+through the bodysense are ahetuka vipākacittas. Nobody can cause the
+arising of seeing, hearing or the other sense-cognitions; they are the
+results of kamma, a deed performed in the past. An evil deed produces
+akusala vipākacitta and a good deed produces kusala vipākacitta.
+Seeing that is akusala vipākacitta experiences an unpleasant object
+and seeing that is kusala vipākacitta experiences a pleasant object.
+Of each of the five sense-cognitions (seeing, etc.) there are two kinds
+experiencing an object through one of the five sense-doors: one is
+ahetuka akusala vipāka and one is ahetuka kusala vipāka. Thus, there
+are five pairs of ahetuka vipākacittas which arise depending on the
+five sense-doors. These five pairs are called in Pali:
+dvi-pañca-viññāṇa (two times five viññāṇa). When a pleasant
+or an unpleasant object impinges on the eyesense, seeing-consciousness
+only experiences what appears through the eyes, there is no like or
+dislike yet of the object. Seeing-consciousness is an ahetuka
+vipākacitta. Cittas which like or dislike the object arise later on;
+these are sahetuka cittas (arising with hetus). Seeing is not the same
+as thinking of what is seen. When one uses the word “seeing” one
+usually means: paying attention to the shape and form of something and
+knowing what it is, such as a person or a thing. However, there must
+also be a kind of citta which merely sees visible object, and this
+citta does not know anything else. What is seen we can call “visible
+object” or “colour”; what is meant is: what appears through the
+eyes. Whenever we see, hear, smell, taste or experience tangible object
+through the bodysense, there are ahetuka vipākacittas before akusala
+cittas or kusala cittas arise. The citta which dislikes the object may
+arise afterwards. This citta is “sahetuka”, with hetus (roots); it
+is akusala citta rooted in dosa, aversion, and it is accompanied by
+unpleasant feeling. Or the citta which likes the object may arise; this
+citta is also “sahetuka”, rooted in lobha, attachment, and it may
+be accompanied by pleasant feeling or by indifferent feeling. We are
+inclined to think that the “five pairs” (dvi-pañca-viññāṇa),
+such as seeing or hearing, can occur at the same time as like or
+dislike of the object, but this is not so. Different cittas arise at
+different moments and the feelings which accompany the cittas are
+different too; these realities arise each because of their own
+conditions and they are non-self.
+
+9 The Experience of Objects through different doorways
+******************************************************
+
+Seeing is an ahetuka vipākacitta that experiences visible object
+through the eye-door. Hearing is an ahetuka vipākacitta that
+experiences sound through the ear-door. Each of the sense-cognitions
+experiences an object through the appropriate doorway. There is not
+only one citta that experiences visible object, or one citta that
+experiences sound, but each of the sense-cognitions arises in a series
+or process of cittas succeeding one another and sharing the same
+object. They all cognize the same object, but they each perform their
+own function. Seeing is preceded by the eye-door
+adverting-consciousness, which adverts to visible object. It does not
+see but it merely turns towards the visible object that has just
+impinged on the eyesense (1)This citta is an ahetuka kiriyacitta
+(inoperative citta), it is not akusala citta, not kusala citta and not
+vipākacitta. Seeing, which is an ahetuka vipākacitta, is succeeded by
+two more ahetuka vipākacittas which do not see but still cognize
+visible object that has not fallen away yet. They perform a function
+different from seeing while they cognize visible object. Visible object
+is rūpa and it lasts longer than citta. These cittas are
+receiving-consciousness (sampaṭicchana-citta), that receives visible
+object and investigating-consciousness (santīraṇa-citta), that
+investigates the object. The investigating-consciousness is succeeded
+by the determining-consciousness (votthapana-citta), which is an
+ahetuka kiriyacitta. This citta is followed by seven javana-cittas that
+are, in the case of non-arahats kusala cittas or akusala cittas. There
+is a fixed order in the cittas arising within a process and nobody can
+change this order. There is no self who can determine whether the
+determining-consciousness will be succeeded by akusala cittas or kusala
+cittas. Cittas arise and fall away succeeding one another extremely
+rapidly and nobody can make kusala citta arise at will. Kusala
+performed in the past is a condition for the arising of kusala at
+present. When the sense-door process of cittas is finished, the sense
+object experienced by those cittas has also fallen away. Very shortly
+after the sense-door process is finished, a mind-door process of cittas
+begins, which experience the sense object which has just fallen away.
+Although it has fallen away, it can be object of cittas arising in a
+mind-door process. The first citta of the mind-door process is the
+mind-door adverting-consciousness (mano-dvārāvajjana-citta) which
+adverts through the mind-door to the object which has just fallen away.
+The mind-door adverting-consciousness is neither akusala citta nor
+kusala citta; it is an ahetuka kiriyacitta. After the mind-door
+adverting-consciousness has adverted to the object it is succeeded by
+either kusala cittas or akusala cittas (in the case of non-arahats),
+which experience that same object. When visible object is experienced
+through the mind-door the cittas only know visible object, they do not
+pay attention to shape and form or think of a person or a thing. But
+time and again there are also other mind-door processes of cittas which
+think of people or things and then the object is a concept, not visible
+object. The experience of visible object conditions the thinking of
+concepts of people and things which arises later on. All the time sense
+objects impinge on the different doorways. They appear just for a
+moment, and then they fall away. The Buddha pointed out the dangers of
+being infatuated with the objects we experience through the six doors.
+He taught people to develop the wisdom which knows the realities
+experienced through the six doors as nāma and rūpa, phenomena which
+are impermanent and non-self. What is impermanent is “dukkha”, it
+cannot be happiness. When we come to know things as they are, we will
+be less infatuated with objects.
+
+   ---------- Footnotes ----------
+
+   (1) The five-sense-door adverting-consciousness
+(pañca-dvåråvajjana-citta) turns towards the object through one of
+the five sense-doors. It is named after the relevant sense-door, such
+as eye-door adverting-consciousness or ear-door adverting-consciousness.
+
+10 Life-continuum, bhavanga-citta
+*********************************
+
+There are moments when there are no sense-impressions, when one does
+not think, when there are no akusala cittas or kusala cittas. Even when
+there are no sense-impressions and no thinking there must be citta;
+otherwise there would be no life. The type of citta which arises and
+falls away at those moments is called bhavanga-citta. Bhavanga
+literally means “factor of life”; bhavanga is usually translated
+into English as “life-continuum”. The bhavanga-citta keeps the
+continuity in a lifespan, so that what we call a “being” goes on to
+live from moment to moment. That is the function of the bhavanga-citta.
+There are countless bhavanga-cittas arising at those moments when there
+are no sense-impressions, no thinking, no akusala cittas or kusala
+cittas. When we are asleep and dreaming akusala cittas and kusala
+cittas arise, but even when we are in a dreamless sleep there still has
+to be citta. There are bhavanga-cittas at such moments. Also when we
+are awake countless bhavanga-cittas arise; they arise in between the
+different processes of citta. It seems that hearing, for example, can
+arise very shortly after seeing, but in reality there are different
+processes of citta and in between these processes bhavanga-cittas
+arise. When an object contacts one of the five senses the stream of
+bhavanga-cittas is interrupted and a sense-cognition arises. However,
+there cannot be a sense-cognition immediately. When sound, for example,
+impinges on the earsense, there is not immediately hearing. There are
+still some bhavanga-cittas arising and falling away before the
+five-sense-door adverting-consciousness (pañca-dvārāvajjana-citta)
+adverts to the sound through the ear-door and hearing arises. The
+bhavanga-cittas do not perform the function of adverting to the sound
+which contacts the earsense, they do not experience the sound. They
+have their own function which is keeping the continuity in a lifespan.
+In the “Atthasālinī”, the commentary to the first book of the
+Abhidhamma, the Dhammasangaṅi, the parable of the Mango is given,
+explaining a process of cittas after the stream of bhavanga has been
+arrested. We read (Expositor, 271, part X, no 2, Discourse on the moral
+result of the sensuous realm) that a man went to sleep under a
+mango-tree. A ripe mango fell down, grazing his ear. Awakened by the
+sound he looked, stretched out his hand, took the fruit, squeezed it,
+smelt it and ate it. We read:
+
+     “What does this simile signify? The function of the object
+     striking the sentient organism. When this happens there is the
+     function of adverting by the five doors just agitating the
+     life-continuum, the function of just seeing by visual cognition,
+     of just receiving the object by the resultant mind-element
+     (receiving-consciousness], of just the examining of the object by
+     the resultant element of mind-cognition
+     (investigating-consciousness), the determining of the object by
+     the inoperative element of mind-cognition (the kiriyacitta which
+     is determining-consciousness). But verily only the apperception
+     (the series of javana-cittas) enjoys the taste of the object.”
+
+   Processes of cittas occur at this moment: seeing, attachment to what
+is seen, thinking about it and taking it for a person or thing. It
+seems that when there is seeing we think at the same time of a person
+or thing, but each citta cognizes only one object at a time. It is
+beneficial to learn about the different processes of cittas that
+succeed one another extremely rapidly. When one has not studied the
+Dhamma one confuses the different doorways and the different objects,
+one “joins” them together. One is inclined to believe that there is
+a self who coordinates all the different expriences. In reality there
+are only different cittas arising because of their appropriate
+conditions that experience different objects one at a time. When we
+look at people they seem to last, and this is because we think for a
+long time of shape and form of people and of things. There are many
+different moments of thinking and these fall away. Thinking is a
+paramattha dhamma, but the concepts that are the objects of thinking
+are not paramattha dhammas. We can learn to discern when we are in the
+world of concepts and when in the world of paramattha dhammas.
+
+11 Feelings (part 1)
+********************
+
+We think of ourselves as having happy feeling or unhappy feeling. We
+take feeling for something lasting and we take it for my feeling. In
+reality feeling is a cetasika accompanying each and every citta. It
+arises with the citta it accompanies and then it falls away
+immediately. Feeling experiences the same object as the citta it
+accompanies, but it is different from citta that is the leader in
+cognizing an object. Feeling experiences the object in its own way, it
+experiences the flavour of the object. There is no moment without
+feeling. Feelings are manifold and they can be classified in different
+ways. When there is not pleasant feeling or unpleasant feeling, there
+is indifferent feeling. When mental feelings and bodily feelings are
+taken into account, feelings can be classified as fivefold:
+
+   * pleasant bodily feeling (sukha)
+
+   * painful bodily feeling (dukkha)
+
+   * happy feeling (somanassa)
+
+   * unhappy feeling (domanassa)
+
+   * indifferent feeling (upekkhā)
+
+   Feeling is different as it accompanies cittas of the four jātis
+(classes) of kusala, akusala, vipāka or kiriya. Somanassa, happy
+feeling, can arise with cittas of all four jatis: with kusala citta,
+akusala citta, vipākacitta and kiriyacitta. It is important to know of
+which jāti feeling is, otherwise we are misled by our feelings. When
+we have happy feeling, we may believe that this is kusala, but most of
+the time it accompanies akuala citta rooted in lobha, attachment. When
+somanassa accompanies lobha-mūla-citta (citta rooted in attachment),
+somanassa is also akusala. There can be pleasant feeling when one likes
+a pleasant visible object, a beautiful sound, a fragrant odour, a
+delicious taste, a soft touch or an agreeable thought. When we enjoy
+delicious food with pleasant feeling, that feeling is different from
+pleasant feeling arising when we appreciate someone else’s kusala. In
+the latter case it is more refined and calm. There are many sobhana
+cetasikas accompanying kusala citta: calm, evenmindedness, confidence
+in kusala, mindfulness. They all condition the pleasant feeling that is
+kusala. Somanassa can accompany kusala citta, but it does not accompany
+each kusala citta. When we perform dāna (generosity), observe sīla (
+morality) or apply ourselves to mental development, there can be
+somanassa or upekkhā, indifferent feeling, with the kusala citta. When
+we give a present to someone else with pleasant feeling, we may think
+that there is one kind of feeling which lasts, but in reality there are
+different moments of feeling accompanying different cittas. There can
+be a moment of pure generosity accompanied by pleasant feeling, but
+many moments of attachment are bound to arise after the kusala cittas
+have fallen away. We may be attached to the person we give to or to the
+thing we give, or we may expect something in return; we want to be
+liked by the person who receives our gift. Such moments of attachment
+may be accompanied by somanassa. Somanassa which is kusala and
+somanassa which accompanies lobha are different kinds of somanassa
+arising closely one after the other, and it is difficult to distinguish
+one from the other. It seems that there is one kind of somanassa and
+that it lasts. In reality there are many different moments of somanassa.
+
+12 Feelings (part 2)
+********************
+
+Domanassa, unhappy feeling, arises only with cittas of the jāti which
+is akusala; it always arises with dosa-mūla-citta, citta rooted in
+aversion, and it does not arise with lobha-mūla-citta, citta rooted in
+attachment, nor with moha-mūla-citta, citta rooted in ignorance. When
+we see someone else suffer, we have compassion and want to help him.
+However, kusala cittas and akusala cittas arise closely one after the
+other. We may be sad because of someone else’s suffering and then
+akusala citta rooted in dosa, aversion, arises. This is accompanied by
+unhappy feeling. At such a moment there is no compassion, but we may
+not notice this.
+Upekkhā, indifferent feeling, is different from somanassa and from
+domanassa; it is neither happy nor unhappy. Upekkhā can arise with
+cittas of all four jātis, but it does not arise with every citta.
+Indifferent feeling can accompany lobha-mūla-citta.When we walk or
+when we get hold of different things we use in our daily life, such as
+a pen or a book, there is bound to be clinging even when we do not feel
+particularly glad. We cling to life and we want to go on living and
+receiving sense-impressions. Seeing, hearing, smelling and tasting
+which are vipākacittas experiencing a pleasant or unpleasant object,
+are always accompanied by indifferent feeling. Often it is not known
+whether the object experienced by these cittas was pleasant or
+unpleasant, they fall away immediately. When a pleasant or unpleasant
+tangible object is experienced through the bodysense, the
+body-consciousness, which is vipākacitta, is not accompanied by
+indifferent feeling but by pleasant bodily feeling or by painful bodily
+feeling. The impact of tangible object on the bodysense is more intense
+than the impact of the other sense objects on the corresponding senses.
+Pleasant bodily feeling and painful bodily feeling are nāma. We can
+call them “bodily feeling” because they are conditioned by impact
+on the bodysense. When, for example, temperature which is just the
+right amount of heat or cold impinges on the bodysense the
+body-consciousness which experiences it is accompanied by pleasant
+bodiIy feeling. Body-consciousness is vipākacitta and in this case
+kusala vipākacitta. When it experiences a pleasant object, it is the
+result of kusala kamma, a wholesome deed, and when it experiences an
+unpleasant object, it is the result of akusala kamma, an unwholesome
+deed. We attach great importance to feeling, we let ourselves be
+carried away by the feelings which arise on account of pleasant or
+unpleasant objects we experience through the senses. The Buddha
+classified feeling as a separate khandha because people cling very much
+to feeling. We are enslaved to our feelings, but they are only
+realities which arise because of the appropriate conditions and do not
+last.
+
+13 The four Great Elements
+**************************
+
+Rūpas, material phenomena, are not mere textbook terms, they are
+realities that can be directly experienced. Rūpas do not know or
+experience anything; they can be known by nāma. Rūpa arises and falls
+away, but it does not fall away as quickly as nāma. When a
+characteristic of rūpa such as hardness impinges on the bodysense it
+can be experienced through the bodysense by several cittas arising in
+succession within a process. But even though rūpa lasts longer than
+citta, it falls away again, it is impermanent. Rūpas do not arise
+singly, they arise in units or groups. What we take for our body is
+composed of many groups or units, consisting each of different kinds of
+rūpa, and the rūpas in such a group arise together and fall away
+together. There are four kinds of rūpa, the four “Great Elements”
+(Mahā-bhūta rūpas), which have to arise together with each and every
+group of rūpas, no matter whether these are rūpas of the body or
+rūpas outside the body. The types of rūpa other than the four Great
+Elements depend on these four rūpas and cannot arise without them.
+They are the following rūpas:
+
+   * the Element of Earth (paṭhavīdhātu) or solidity
+
+   * the Element of Water (āpodhātu) or cohesion
+
+   * the Element of Fire (tejodhātu) or heat
+
+   * the Element of Wind (vāyodhātu) or motion
+
+   Earth, Water, Fire and Wind do not in this context have the same
+meaning as in conventional language, neither do they represent
+conceptual ideas as we find them in different philosophical systems. In
+the Abhidhamma they represent ultimate realities, specific rūpas each
+with their own characteristic. The element of earth, paṭhavī dhātu,
+translated into English as “solidity” or “extension”, has the
+characteristic of hardness or softness. It can be directly experienced
+when we touch something hard or soft. We do not have to name this rūpa
+“element of earth” in order to experience it. It is an element that
+arises and falls away; it has no abiding substance, it is devoid of a
+“self”. We take softness and hardness of the body for self, but
+these are only elements arising because of conditions. It may seem that
+hardness can last for some time, but in reality it falls away
+immediately. The hardness that is experienced now is already different
+from the hardness that arose a moment ago. The element of earth appears
+as hardness or softness; the element of fire as heat or cold; the
+element of wind as motion or pressure. These three elements can be
+experienced by touch. The element of water cannot be experienced
+through touch, but only through the mind-door. When we touch what we
+call water, cold which is the element of fire, or hardness, which is
+the element of earth, can be directly experienced. Every day we
+experience a great variety of sense objects, but they are, in fact,
+only different compositions of rūpa elements. When we touch a cushion
+or chair, tangible object may appear, such as hardness or softness. We
+used to think that a cushion or chair could be experienced through
+touch. When we are more precise, it is hardness or softness that can be
+experienced through touch. Because of remembrance of former experiences
+we can think of a cushion or chair and we know that they are named
+“cushion” or “chair”. This example can remind us that there is
+a difference between ultimate realities and concepts we can think of
+but which are not real in the ultimate sense. Viewing the body and the
+things around us as different combinations of rūpas may be new to us.
+Gradually we shall realize that rūpas are not abstract categories, but
+that they are realities appearing in daily life.
+
+14 The Eight Inseparable Rūpas
+*******************************
+
+Rūpas always arise in groups, and the four Great Elements of solidity,
+cohesion, temperature and motion are always present wherever there is
+materiality. Apart from these four elements there are other rūpas,
+namely twentyfour “derived rūpas” (in Pāli: upādā rūpas). The
+derived rūpas cannot arise without the four Great Elements, they are
+dependent on them. Four among the derived rūpas always arise together
+with the four Great Elements in every group of rūpas and are thus
+present wherever materiality occurs, no matter whether rūpas of the
+body or materiality outside the body. These four rūpas are the
+following:
+
+   * visible object (or colour)
+
+   * odour
+
+   * flavour
+
+   * nutrition
+
+   The four Great elements and these four derived rūpas, which always
+arise together, are called the “inseparable rūpas” (in Pāli:
+avinibbhoga rūpas). Wherever solidity arises, there also have to be
+cohesion, temperature, motion, colour, odour, flavour and nutritive
+essence. Visible object has as its proximate cause the four Great
+Elements because it cannot arise without them. However, when a
+characteristic of one of these four Great Elements, such as hardness or
+heat, is experienced, the accompanying visible object cannot be
+experienced at the same time. Only one rūpa at a time can be
+experienced by citta. When there are conditions for seeing, visible
+object is experienced. When we close our eyes, there may be remembrance
+of the shape and form of a thing, but that is not the experience of
+visible object. The thinking of a “thing”, no matter whether our
+eyes are closed or open, is different from the actual experience of
+what is visible. Odour cannot arise alone, it needs the four Great
+Elements which arise together with it and it is also accompanied by the
+other rūpas included in the eight inseparable rūpas. When odour
+appears we tend to be carried away by like or dislike. We are attached
+to fragrant odours and we loathe nasty smells. However, odour is only a
+reality which is experienced through the nose and it does not last.
+Flavour is another rūpa included in the eight inseparable rūpas. We
+are attached to food and we find its flavour very important. As soon as
+we have tasted delicious flavour, attachment tends to arise. We are
+forgetful of the reality of flavour which is only a kind of rūpa. When
+we recognize what kind of flavour we taste, we think about a concept,
+but this thinking is conditioned by the experience of flavour through
+the tongue. Nutrition is another kind of rūpa which has to arise with
+every kind of materiality. It can be exerienced only through the
+mind-door. Nutritive essence is not only present in rice and other
+foods, it is also present in what we call a rock or sand. It is present
+in any kind of materiality. Insects are able to digest what human
+beings cannot digest, such as, for example, wood. If one does not
+develop understanding of realities one will be enslaved by all objects
+experienced through the senses. On account of these objects akusala
+cittas tend to arise. If someone thinks that there is a self who can
+own what is seen, touched or smelt, he may be inclined to commit
+unwholesome deeds such as stealing. In reality all these objects are
+insignificant, they arise and then fall away immediately. In the
+ultimate sense life exists only in one moment, the present moment. At
+the moment of seeing the world of visible object is experienced, at the
+moment of hearing the world of sound, and at the moment of touching the
+world of tangible object. Life is actually one moment of experiencing
+an object.
+
+15 The Sense organs
+*******************
+
+For the experience of objects through the senses there have to be sense
+organs and these are rūpas. Visible object and also the rūpa which is
+eyesense are conditions for seeing. Eyesense does not know anything
+since it is rūpa, but it is a necessary condition for seeing. Eyesense
+is a rūpa in the eye, capable of receiving visible object, so that
+citta can experience it. For hearing, the experience of sound, there
+has to be earsense, a rūpa in the ear, capable of receiving sound.
+There must be smellingsense for the experience of odour, tastingsense
+for the experience of flavour and bodysense for the experience of
+tangible object. Through the bodysense are experienced: the earth
+element, appearing as hardness or softness; the fire element, appearing
+as heat or cold; the wind element, appearing as motion or pressure.
+When these characteristics appear they can be directly experienced
+wherever there is bodysense. The bodysense is all over the body, also
+inside the body. Thus, there are five kinds of sense organs. These
+sense organs can be the doorways for the cittas that experience sense
+objects. As we have seen, visible object, sound, odour, flavour and
+tangible object (which consists of three of the four Great Elements)
+are experienced through the corresponding sense-doors and they can also
+be experienced through the mind-door. Rūpas of the body and also
+rūpas outside the body do not arise without there being conditions for
+their arising. There are four factors that produce rūpas of the body:
+kamma, citta, temperature (the element of heat) and nutrition. As we
+have seen, kamma is actually the volition that motivates good and evil
+deeds. Kamma that has been committed has fallen away, but since it is a
+mental activity it is accumulated and can produce result later on.
+Throughout our life kamma produces seeing, hearing and the other
+sense-impressions that are vipākacittas, cittas that are results.
+Rebirth-consciousness is the mental result of kamma, vipākacitta, but
+at that moment kamma also produces rūpas and kamma keeps on producing
+rūpas throughout life; when it stops producing rūpas our life-span
+has to end. Kamma produces particular kinds of rūpas such as the sense
+organs. Citta also produces rūpas. Our different moods become evident
+by our facial expressions and then it is clear that citta produces
+rūpas. Temperature, which is actually the element of heat, also
+produces rūpas. Throughout life the element of heat produces rūpas.
+Nutrition is another factor that produces rūpas. When food has been
+taken by a living being it is assimilated into the body and then
+nutrition can produce rūpas. Some of the groups of rūpas of our body
+are produced by kamma, some by citta, some by temperature and some by
+nutrition. The four factors which produce the rūpas of our body
+support and consolidate each other and keep this shortlived body going.
+If we see the intricate way in which different factors condition the
+rūpas of our body we shall be less inclined to think that the body
+belongs to a self. There are not only rūpas of the body, there are
+also rūpas which are the material phenomena outside the body. What we
+take for rocks, plants or houses are rūpas and these originate from
+temperature. We may wonder whether there are no other factors apart
+from the element of heat that contribute to the growth of plants, such
+as soil, light and moisture. It is true that these factors are the
+right conditions that have to be present so that a plant can grow. But
+what we call soil, light and moisture are, when we are more precise,
+different combinations of rūpas, none of which can arise without the
+element of heat or temperature that produces them. Rūpas outside the
+body are only produced by temperature, not by kamma, citta or nutrition.
+
+16 The Five Khandhas
+********************
+
+All that is real can be classified as four ultimate realities,
+paramattha dhammas: as citta, cetasika, rūpa and nibbāna. Citta,
+cetasika and rūpa are conditioned realities that arise and fall away
+and nibbāna is the unconditioned element that does not arise and fall
+away. All conditioned realities that arise and fall away can be
+classified as five khandhas, aggregates. The five khandhas are not
+different from the three paramattha dhammas which are citta, cetasika
+and rūpa. The five khandhas are:
+
+   * Rūpakkhandha, all physical phenomena
+
+   * Vedanākkhandha, feeling (vedanā)
+
+   * Saññākkhandha, remembrance or “perception” (saññā)
+
+   * Saṅkhārakkhandha, comprising fifty cetasikas (mental factors
+     arising with the citta)
+
+   * Viññāṇakkhandha, comprising all cittas
+
+   As regards the fifty-two kinds of cetasika which may arise with
+citta, they are classified as three khandhas: the cetasika which is
+feeling (vedanā) is classified as one khandha; the cetasika which is
+remembrance or “perception" (saññā) is classified as one khandha;
+as regards the other fifty cetasikas, they are classified altogether as
+one khandha, the khandha of formations, saṅkhārākkhandha. For
+example, in saṅkhārakkhandha are included cetasikas such as volition
+or intention (cetanā), attachment (lobha), aversion (dosa), ignorance
+(moha), loving kindness (mettā), generosity (alobha) and wisdom
+(paññā). All defilements and all good qualities are included in
+saṅkhārākkhandha, they are impermanent not “self".
+Saṅkhārākkhandha is sometimes translated as “activities” or
+“mental formations”. As regards citta, all cittas are one khandha:
+viññāṇakkhandha. Thus, one khandha is rūpakkhandha and the other
+four khandhas are nāmakkhandhas. Three nāmakkhandhas are cetasika and
+one nāmakkhandha is citta. Anything which is khandha does not last; as
+soon as it has arisen it falls away again. Although khandhas arise and
+fall away, they are real; we can experience them when they present
+themselves. The khandhas arise and fall away all the time. When seeing
+arises, there is viññāṇakkhandha, and there are the accompanying
+cetasikas: vedanākkhandha, saññākhandha, saṅkhārakkhandha
+(including cetasikas apart from feeling and saññā), and there is
+eyesense which is rūpa-kkhandha. Thus, the khandhas are: citta,
+cetasika and rūpa arising at this moment. We do not have to name them
+in order to know them, they each have their own characteristic that can
+be realised without naming. Thinking arises shortly after seeing has
+fallen away, but we may be confused about different cittas and take
+seeing and thinking together. Thus, it seems that we see immediately a
+person or a tree, but these are concepts we think about, they are not
+seen through the eyesense. Seeing sees only what is visible and it is
+different from thinking. At the moment of thinking there are five
+khandhas, but these are different from the khandhas that arose at the
+moment of seeing. We may think of a person or tree with clinging and
+wrong view. The citta that thinks is viññāṇakkhandha, and there
+are the accompanying cetasikas: vedanākkhandha, saññākhandha and
+saṅkhārakkhandha in which are now included clinging and wrong view.
+Moreover there is a rūpa that is the physical base of thinking. Cittas
+arise and fall away so rapidly that it is difficult to distinguish
+different cittas from each other. It seems that there is one citta
+performing different functions at the same time. We take seeing and
+thinking for my seeing and thinking.   We read in the “Kindred
+Sayings” (III, 140, translated by Ven. Bodhi) that the Buddha, while
+he was dwelling at Ayojjhā, said to the monks:
+
+     “Bhikkhus, suppose that this river Ganges was carrying along a
+     great lump of foam. A man with good sight would inspect it, ponder
+     it, and carefully investigate it, and it would appear to him to be
+     void, hollow, insubstantial. For what substance could there be in
+     a lump of foam?   So too, bhikkhus, whatever kind of form there
+     is, whether past, future or present, internal or external, gross
+     or subtle, inferior or superior, far or near: a bhikkhu inspects
+     it, ponders it, and carefully investigates it, and it would appear
+     to him to be void, hollow, insubstantial. For what substance could
+     there be in form?”
+
+   The Buddha then goes on to make the same observation by way of
+similes on the four nāmakkhandhas of feeling, perception, volitional
+formations and conscious-ness. When we take the khandhas as a
+“whole” of a person, we have wrong view of self. Thus, when we fail
+to see the different characteristics of naama and ruupa when they
+appear one at a time, we take them for a self or a person.
+
+17 The World
+************
+
+The study of the different kinds of nāma and rūpa and the various
+conditions for their arising will help us to understand that they are
+anattā. Gradually we shall come to understand that all our experiences
+in life, all the objects we experience, our bodily movements and our
+speech are only conditioned nāma and rūpa. In the planes of existence
+where there are nāma and rūpa, nāma conditions rūpa and rūpa
+conditions nāma in different ways. The rūpas that are sense objects
+and the rūpas that can function as sense-doors are conditions for the
+different cittas arising in processes which experience sense objects.
+The study of rūpas can help us to have more clarity about the fact
+that only one object at a time can be experienced through one of the
+six doors. Visible object, for example, can be experienced through the
+eye-door, it cannot be experienced through the body-door, thus, through
+touch. Seeing-consciousness experiences what is visible and
+body-consciousness experiences tangible object, such as hardness or
+softness. Through each door the appropriate object can be experienced
+and the different doorways should not be confused with one another.
+When we believe that we can see and touch a flower, we think of a
+concept. A concept or conventional truth can be an object of thought,
+but it is not a paramattha dhamma, an ultimate reality with its own
+inalterable characteristic. When we are thinking about the world and
+all people in it, we only know the world by way of conventional truth.
+It seems that there is the world full of beings and things, but in
+reality there is citta experiencing different dhammas arising and
+falling away very rapidly. Only one object at a time can be cognized as
+it appears through one doorway. Without the doorways of the senses and
+the mind the world could not appear. So long as we take what appears as
+a ‘whole’, a being or person, we do not know the world. We read in
+the “Kindred Sayings” (IV, Saḷāyatana vagga, Kindred Sayings on
+Sense, Second Fifty, Ch I, § 68, Samiddhi sutta) that when the Buddha
+was staying near Rājagaha, in Bamboo Grove, Samiddhi came to see him
+and adressed him:
+
+     “ ‘The world! The world!’ is the saying, lord. Pray, lord,
+     to what extent is there the world or the concept of
+     ‘world’?” “Where there is eye, Samiddhi, visible object,
+     seeing-consciousness, where there are dhammas cognizable by the
+     eye, there is the world and the concept of ‘world’.” (The
+     same is said with regard to the other doorways.) In our life happy
+     moments and sad moments alternate. We attach great importance to
+     our experiences in life, to our life in this world, but actually
+     life is extremely short, lasting only as long as one moment of
+     citta. We read in the “Visuddhimagga” (VI, 39) : “Life,
+     person, pleasure, pain - just these alone Join in one conscious
+     moment that flicks by. Ceased aggregates of those dead or alive
+     Are all alike, gone never to return. No [world is] born if
+     [consciousness is] not Produced; when that is present, then it
+     lives; When consciousness dissolves, the world is dead: The
+     highest sense this concept will allow (Nd.1,42).”
+
+
+18 Death and Rebirth
+********************
+
+What is birth, and what is it actually that is born? We speak about the
+birth of a child, but in fact, there are only nāma and rūpa which are
+born. The word “birth” is a conventional term. We should consider
+what birth really is. In order to understand what causes birth we
+should know what conditions the nāma and rūpa which arise at the
+first moment of a new lifespan. The citta which arises at that moment
+is called the rebirth-consciousness or paṭisandhi-citta. Paṭisandhi
+means relinking, it “links” the previous life to the present life.
+It is usually translated as rebirth-consciousness, but, since there is
+no person who is reborn, birth-consciousness would be more correct.
+Since there isn't any citta which arises without conditions, the
+paṭisandhi-citta must also have conditions. The paṭisandhi-citta is
+the first citta of a new life and thus its cause can only be in the
+past. One may have doubts about past lives, but how can people be so
+different if there were no past lives? We can see that people are born
+with different tendencies and talents. Cittas which arise and fall away
+succeed one another and thus each citta conditions the next one. The
+last citta of the previous life (dying-consciousness) is immediately
+succeeded by the first citta of this life, without there being any
+interval. That is why tendencies one had in the past can continue by
+way of accumulation from one citta to the next one and from past lives
+to the present life. Since people accumulated different tendencies in
+past lives, they are born with different tendencies and inclinations.
+Rebirth-consciousness is the result of kamma, it is vipākacitta. Our
+life starts at the moment the paṭisandhi-citta arises together with
+the rūpa which is at the same time produced by kamma. A lifespan ends
+when the last citta, the dying-consciousness (cuti-citta) falls away.
+Kamma produces rūpa not only at the first moment of life but
+throughout our life. Kamma produces the vipākacittas which experience
+pleasant and unpleasant objects through the sense-doors, and it also
+produces throughout our life the rūpas which can function as the
+sense-doors through which these objects are received. Some kammas
+produce results in the same life in which they have been performed,
+some produce result in the form of rebirth-consciousness of a future
+life, or they produce result in the course of a future life. We have
+performed deeds in past lives which could produce rebirth but which
+have not yet come to fruition. We cannot know which kamma will produce
+the next rebirth. If akusala kamma produces the rebirth of the next
+life there will be an unhappy rebirth. In that case the cittas which
+arise shortly before the dying-consciousness are akusala cittas and
+they experience an unpleasant object. The paṭisandhi-citta of the
+next life which succeeds the cuti-citta (the dying-consciousness),
+experiences that same unpleasant object. If kusala kamma produces the
+rebirth there will be a happy rebirth. In that case kusala cittas arise
+shortly before the cuti-citta and they experience a pleasant object.
+The paṭisandhi-citta of the next life experiences that same pleasant
+object. The object experienced shortly before the dying-consciousness
+may be a sign of kamma one performed, or a sign of one’s future
+destiny, or it may be any object experienced through one of the senses.
+The kamma that will produce the next rebirth conditions the last
+javana-cittas arising before the cuti-citta to experience that object.
+There is no self who transmigrates from one life to the next life;
+there are only nāma and rūpa arising and falling away. The present
+life is different from the past life but there is continuity in so far
+as the present life is conditioned by the past. The Visuddhimagga (XVI,
+164-168) explains by way of similes that although the present is
+different from the past there is continuity. The being who is born is
+not the same as the being of the past life, but it is conditioned by
+the past. There is “neither absolute identity nor absolute
+otherness”, as the Visuddhimagga explains. We read with regard to the
+paṭisandhi-citta:
+
+     “An echo, or its like, supplies The figures here; connectedness
+     By continuity denies Identity and otherness. And here let the
+     illustration of this consciousness be such things as an echo, a
+     light, a seal impression, a looking glass image, for the fact of
+     its not coming here from the previous becoming and for the fact
+     that it arises owing to causes that are included in past
+     becomings. For just as an echo, a light, a seal impression, and a
+     shadow, have respectively sound, etc., as their cause and come
+     into being without going elsewhere, so also this consciousness.”
+
+
+19 Rebirth in different planes of existence (1)
+***********************************************
+
+Akusala kamma and kusala kamma of different beings can produce nineteen
+different types of rebirth-consciousness, paṭisandhi-citta, in all,
+arising in different planes of existence. The paṭisandhi-citta is
+vipākacitta, the result of kamma. One paṭisandhi-citta is akusala
+vipāka and eighteen types are kusala vipāka. There are many degrees
+of each of these nineteen types of paṭisandhi-citta because the kamma
+that produces them can be of many degrees. Birth in a woeful plane is
+the result of a bad deed and birth in a happy plane is the result of a
+good deed. Since the deeds of beings are of many different degrees of
+kusala and akusala, the results are of many different degrees as well.
+The paṭisandhi-citta that is akusala vipākacitta arises in an
+unhappy plane of existence and the paṭisandhi-citta that is kusala
+vipākacitta arises in a happy plane of existence. A plane of existence
+is the place where one is born. There are different woeful planes and
+different happy planes of existence. Only one type of
+paṭisandhi-citta is akusala vipāka, but it is of many degrees. There
+are many varieties of akusala kamma and thus there must be many
+varieties of an unhappy rebirth. The unhappy rebirth we can see in this
+world is birth as an animal. Apart from the animal world there are
+three more classes of woeful planes, which we cannot see; they are the
+world of petas (ghosts), the world of asuras (demons), and the hell
+planes. There are different kinds of hell planes because there are many
+degrees of akusala kamma which produce different kinds of unhappy
+rebirth. The akusala vipāka in hell is more intense than the
+sufferings which can be experienced in the human plane. The
+descriptions of hells in the Buddhist teachings are not merely
+allegories; the experience of unpleasant things through eyes, ears,
+nose, tongue and bodysense is akusala vipāka and akusala vipāka is
+reality. Life in a hell plane is not permanent; when one's lifespan in
+a hell plane is over there can be rebirth in another plane. Birth as a
+human being is a happy rebirth. In the human plane there is opportunity
+for the development of kusala. One can study Dhamma and learn to
+develop the way leading to the end of defilements, to the end of birth
+and death. Birth in the human plane is kusala vipāka, but during one's
+lifespan in this plane there are both kusala vipāka and akusala
+vipāka. Each person experiences different results in life: there are
+gain and loss, honour and dishonour, praise and blame, happiness and
+misery. It is due to kamma whether someone is born into pleasant or
+unpleasant surroundings, whether he belongs to a family which is
+well-to-do or which is poor. The experience of pleasant and unpleasant
+things through eyes, ears, nose, tongue and bodysense are the results
+of kamma. Other happy planes, apart from the human plane, are the
+heavenly planes. In the heavenly planes there is more kusala vipāka
+than in the human plane and less akusala vipāka. There are several
+heavenly planes and although life in a heavenly plane lasts a very long
+time, it is not permanent. The woeful planes, the human plane and the
+six heavenly planes which are deva planes, are sensuous planes of
+existence. Sensuous planes of existence are planes where there is
+seeing, hearing, smelling, tasting, the experience of tangible object
+through the bodysense and other kāmāvacara cittas (cittas of the
+sensuous plane of consciousness). There are eleven classes of sensuous
+planes of existence in all. In the “Discourse on the Lesser Analysis
+of Deeds” (Middle Length Sayings III, sutta 135) we read that Subha
+asks the Buddha what the cause is of the different results human beings
+experience from the time of their birth:
+
+     “Now, good Gotama, what is the cause, what is the reason that
+     lowness and excellence are to be seen among human beings while
+     they are in human form? For, good Gotama, human beings of short
+     lifespan are to be seen and those of long lifespan; those of many
+     and those of few illnesses; those who are ugly, those who are
+     beautiful; those who are of little account, those of great
+     account; those who are poor, those who are wealthy; those who are
+     of lowly families, those of high families; those who are weak in
+     wisdom, those who are full of wisdom.” The Buddha answered
+     Subha: ”Deeds are one’s own, brahman youth, beings are heirs
+     to deeds, deeds are matrix, deeds are kin, deeds are arbiters.
+     Deed divides beings, that is to say by lowness and excellence.”
+
+
+20 Rebirth in different Planes of Existence (2)
+***********************************************
+
+Rebirth-consciousness does not only arise in sensuous planes of
+existence, kāma-bhūmi, it can also arise in higher heavenly planes
+which are not sensuous planes of existence. If one is born in one of
+the kāma-bhūmis and one sees the disadvantage of sense impressions,
+one may cultivate jhāna, absorption. Then one can, besides
+kāmāvacara cittas, also have rūpa-jhānacittas and
+arūpa-jhānacittas. If one cultivates the eightfold Path one can have
+lokuttara cittas, supramundane cittas which directly experience
+nibbāna. There are four planes of citta: kāmāvacara cittas,
+rūpāvacāra cittas which are rūpajhānacittas, arūpāvacāra cittas
+which are arūpajhānacittas and lokuttara cittas. Which of these
+planes of citta a particular citta belongs to, depends on the object it
+experiences. Kāmāvacara citta experiences a sense object.
+Rūpāvacāra cittas and arūpāvacāra cittas experience with
+absorption the meditation subjects of rūpa-jhāna and arūpa-jhāna.
+Lokuttara citta experiences nibbāna. A plane of citta is different
+from a plane of existence which, as we have seen, is the place where
+rebirth-consciousness arises.
+When someone attains jhāna, the kusala kamma he performs is not
+kāmāvacara kusala kamma; at the moment of jhāna there are no sense
+impressions. The kusala kamma which is jhāna does not produce result
+in the same lifespan one attains it, but it can produce result in the
+form of paṭisandhi-citta, the paṭisandhi-citta of the next life. In
+that case there are jhānacittas arising shortly before death and the
+paṭisandhi-citta of the next life experiences the same object as
+those jhānacittas. The result of rūpāvacara kusala citta (kusala
+citta which is rūpa-jhānacitta) is birth in a heavenly plane which is
+not kāma-bhūmi (sensuous plane of existence) but a rūpa-brahma-plane
+(fine-material world). The result of an arūpāvacara kusala citta
+(kusala citta which is arūpa-jhānacitta) is birth in a heavenly plane
+which is an arūpa-brahma plane (immaterial world). There are different
+rūpa-brahma planes and arūpa-brahma planes. Those who attain
+rūpa-jhāna can be reborn in rūpa-brahma-planes where there are less
+sense-impressions. There are sixteen rūpa-brahma planes in all. One of
+these is the plane of unconscious beings, asaññasatta. Those who
+cultivate rūpa-jhāna and see the disadvantage of nāma may be reborn
+in a plane where there is only rūpa, not nāma. Thus, here there is
+not a rebirth-consciousness, only rūpa-paṭisandhi. Those who see the
+disadvantages of the meditation subjects of rūpa-jhāna which are
+still bound up with materiality, cultivate arūpa-jhāna. If they
+attain arūpa-jhāna they can be reborn in arūpa-brahma planes where
+there is no rūpa, only nāma. There are four classes of arūpa-brahma
+planes. There are thirty-one classes of planes of existence in all,
+namely:
+
+   11 sensuous planes:
+
+   * 4 woeful planes
+
+   * 1 human plane
+   * 6 deva planes
+
+   * 16 rūpa-brahma planes
+
+   * 4 arūpa-brahma planes
+
+
+   Kusala kamma can cause a happy rebirth, but the end of birth is to
+be preferred to any kind of rebirth. If one cultivates the eightfold
+Path and attains arahatship there will be no more rebirth. The
+dying-consciousness (cuti-citta) of the arahat is not succeeded by a
+paṭisandhi-citta. The Buddha reminded people of the dangers of birth
+and encouraged them to be mindful, in order to attain the
+“deathless'” which is nibbāna. We read in the
+Mahā-parinibbāna-sutta (Dialogues of the Buddha I, no. 16, chapter I,
+1-4):
+
+     “... The Exalted One proceeded with a great company of the monks
+     to Kotigāma; and there he stayed in the village itself. And at
+     that place the Exalted One addressed the monks, and said: ‘It is
+     through not understanding and grasping four Ariyan Truths, O
+     monks, that we have had to run so long, to wander so long in this
+     weary path of rebirth, both you and I!’ And what are these four?
+     The Ariyan truth about dukkha; the Ariyan truth about the cause of
+     dukkha; the Ariyan truth about the cessation of dukkha; and the
+     Ariyan truth about the path that leads to that cessation. But when
+     these Ariyan truths are grasped and known the craving for future
+     life is rooted out, that which leads to renewed becoming is
+     destroyed, and then there is no more birth!’ ”
+
+
+21 Accumulated inclinations
+***************************
+
+The first citta in a life span is the rebirth-consciousness or
+paṭisandhi-citta. It is a vipākacitta produced by kamma and it links
+the past life to the present life. As we have seen, there are nineteen
+types of vipākacitta that can perform the function of rebirth. The
+paṭisandhi-citta is succeeded by the bhavanga-citta (life-continuum).
+The bhavanga-citta is the same type of citta as the paṭisan-dhi-citta
+and it experiences the same object. As we have seen, this object is the
+same as the object experienced by the last javana-cittas of the
+previous life and it is conditioned by the kamma that produces the
+rebirth-consciousness of the following life. The bhavanga-citta keeps
+the continuity in a lifespan. So long as one is still alive,
+bhavanga-cittas arise and fall away during the time there is no
+sense-door process or mind-door process of cittas. Bhavanga-cittas
+arise in between the different processes of cittas which experience an
+object through one of the six doors. It performs its function of
+keeping the continuity in life until the dying-consciousness, the
+cuti-citta, arises and one passes away from this life. The
+dying-consciousness of a life that is ending experiences the same
+object as all the previous bhavanga-cittas and it is of the same type.
+Thus, the rebirth-consciousness, the bhavanga-citta and the
+dying-consciousness do not experience objects that impinge on the six
+doors like the cittas that arise in the different processes. The whole
+day cittas arising in processes experience objects through eyes, ears,
+nose, tongue, bodysense and mind-door and in between the processes
+there are bhavanga-cittas. Each citta is succeeded by a following citta
+in the long series of cittas in our life, there isn’t any moment
+without citta. In the course of life kammas produce different
+vipākacittas which experience objects through the eyes, the ears, the
+nose, the tongue and the bodysense. Vipākacittas neither like nor
+dislike the object, they do not react to the object in an unwholesome
+or a wholesome way. However, shortly after they have fallen away there
+are cittas which react to the objects experienced through the senses
+either in an unwholesome way or in a wholesome way. Akusala cittas or
+kusala cittas arising in a sense-door process or mind-door process, are
+called javana-cittas (literally: readiness, impulse, going). They arise
+usually in a sequence of seven cittas of the same type. They fall away
+immediately but the inclination to akusala and kusala is accumulated so
+that there are conditions for the arising again of akusala citta and
+kusala citta. Since each citta is succeeded by the next citta without
+any interval, the process of accumulation can go on from moment to
+moment, from one life to a next life. Each moment of kusala citta or
+akusala citta arising today is a condition for the arising of kusala
+citta or akusala citta in the future. There are different types of
+kusala citta and of akusala citta. It is important to learn more about
+them in order to understand ourselves, about the way we behave towards
+others in action and speech, and the way we react towards pleasant and
+unpleasant events. It is citta which motivates good deeds and evil
+deeds and these will produce their results accordingly. The Buddha
+exhorted people to abstain from akusala, to perform kusala, to purify
+the mind, and his impressive words were a real support for people to
+follow his advice.
+
+22 Four Planes of Consciousness (part 1)
+****************************************
+
+There are many ways of classifying citta and one way is the
+classification by way of plane of consciousness, in Pali: bhūmi. There
+are four planes of consciousness:
+
+   * the sensuous plane of consciousness, kāma-bhūmi,
+
+   * the plane of rūpa-jhāna, rūpa-bhūmi,
+
+   * the plane of arūpa-jhāna, arūpa-bhūmi,
+
+   * the plane of supramundane citta, lokuttara-bhūmi
+
+   As we have seen, plane of consciousness is different from plane of
+existence which is the place where one is born. What plane of
+consciousness a citta belongs to depends on the object it experiences.
+The sensuous plane of consciousness (kāmāvacara cittas) are the
+cittas that experience sense objects, such as seeing, hearing,
+smelling, tasting, the experience of tangible object through the
+bodysense and the experience of these objects through the mind-door. On
+account of pleasant and unpleasant objects experienced through the
+senses, kusala cittas (wholesome cittas) and akusala cittas
+(unwholesome cittas) arise. We usually cling to all the sense objects.
+Those who see the disadvantage of sense impressions and the defilements
+bound up with them cultivate samatha (tranquil meditation) and may
+attain absorption (jhāna). The jhānacitta is of another plane of
+citta, and this is higher than the sensuous plane of citta.
+Jhānacittas do not experience sense objects, they experience with
+absorption a meditation subject through the mind-door. For the
+development of samatha, tranquil meditation, it is essential to have a
+keen understanding of the characteristic of calm and of the way to
+develop calm with a suitable meditation subject. True calm has to be
+wholesome, it is freedom from defilements. Right understanding,
+paññā, that knows precisely when the citta is kusala citta and when
+akusala citta is indispensable. When the objective of citta is not
+dāna, sīla or mental development, bhāvanā, the citta is usually
+akusala, but we may not notice this. Indifferent feeling seems to be
+very calm, but actually, indifferent feeling arises with kusala citta
+as well as with akusala citta rooted in attachment or rooted in
+ignorance. One may be attached to silence, and without right
+understanding one may erroneously believe that there is kusala citta
+with calm. The Visuddhimagga (Chapters IV-XII) describes forty
+meditation subjects which can condition calm such as disks (kasinas),
+recollection of the excellent qualities of the Triple Gem, mindfulness
+of death, loving-kindness or mindfulness of breathing. A meditation
+subject does not necessarily bring about calm. Only when there is right
+understanding of calm and the way to develop it, calm can grow. Through
+samatha the “hindrances” (nīvaraṇa), which are akusala
+cetasikas, are temporarily suppressed. The hindrances arise time and
+again in daily life. They are sensuous desire (kāmacchandha), ill-will
+(vyāpāda), torpor and languor (thīna and middha), restlessness and
+worry (uddhacca and kukkucca) and doubt (vicikicchā). Someone who
+wants to develop samatha so as to be able to attain jhāna, has to
+develop five jhāna-factors which can inhibit the hindrances, and these
+are the following cetasikas:
+
+   * applied thinking (vitakka)
+
+   * sustained thinking (vicāra)
+
+   * rapture (pīti)
+
+   * happy feeling (sukha)
+
+   * concentration (samādhi)
+
+   Jhāna is developed in stages, with each succeeding stage being more
+refined than the preceding one. For the first stage of rūpa-jhāna it
+is still necessary that all five jhāna-factors arise with the
+jhānacitta, but at each higher stage, when one has become more
+advanced, jhāna-factors are successively abandoned. Jhānacittas do
+not produce vipāka in the same lifespan: their result is rebirth in
+higher planes of existence. The result of rūpāvacara kusala cittas is
+rebirth in rūpa-brahma planes. Those who have attained the highest
+stage of rūpa-jhāna and see the disadvantages of rūpa-jhāna which
+is still dependent on materiality, might want to cultivate
+arūpa-jhāna or “immaterial jhāna”. The meditation subjects of
+arūpa-jhāna are not connected with materiality. There are four stages
+of arūpa-jhāna and each one of these is more subtle and more peaceful
+than the preceding one. These stages are: the “Sphere of Boundless
+Space” (ākāsānañcāyatana), the “Sphere of Boundless
+Consciousness” (viññāṇañcāyatana), the “Sphere of
+Nothingness” (ākiñcaññāyatana), and the “Sphere of Neither
+Perception Nor Non-Perception”
+(n’eva-saññā-n’āsaññāyatana). Even when one has attained the
+highest stage of jhāna, defilements cannot be eradicated. They can
+only be eradicated by lokuttara magga-citta.
+
+23 The Four Planes of Consciousness (part 2)
+********************************************
+
+As we have seen, there are four planes of citta: the sensuous plane of
+consciousness, the plane of rūpa-jhāna, the plane of arūpa-jhāna,
+and the plane of lokuttara citta, supramundane citta. When
+enlightenment is attained lokuttara cittas arise which directly
+experience nibbāna. The lokuttara citta is the highest plane of
+consciousness. There are four stages of enlightenment: the stages of
+the sotāpanna (streamwinner), the sakadāgāmī (once-returner), the
+anāgāmī (no-returner) and the arahat. At each of these stages the
+lokuttara kusala citta, the path-consciousness (magga-citta), arises
+which experiences nibbāna and eradicates defilements. The magga-citta
+of each of these stages is succeeded immediately by the lokuttara
+vipākacitta, the fruition-consciousness (phala-citta) which also
+experiences nibbāna.
+Wrong view has to be eradicated first. So long as one takes realities
+for self there cannot be the eradication of any defilement. The
+sotāpanna, the ariyan who has attained the first stage of
+enlightenment, has eradicated diṭṭhi completely, so that it can
+never arise again, but he has not eradicated all defilements.
+Defilements are eradicated stage by stage and only when arahatship has
+been attained all defilements have been eradicated. Only the right
+Path, the eightfold Path, can lead to enlightenment. The eightfold Path
+is developed by being mindful of the nāma and rūpa which appear in
+daily life, such as seeing, visible object, hearing, sound, thinking,
+feeling, attachment, anger or the other defilements which arise. This
+is actually the development of vipassanā, insight-wisdom. There are
+several stages of insight-wisdom. The characteristics of nāma and
+rūpa have to be investigated over and over again until they are
+clearly understood as they are and there is no more wrong view about
+them. The realization of the arising and falling away of nāma and
+rūpa, their impermanence, is a higher stage of insight which cannot be
+attained so long as the characteristic of nāma cannot be distinguished
+from the characteristic of rūpa. All the different stages of insight
+have to be attained in the right order. Paññā should continue to
+investigate the characteristics of realities as they appear through the
+six doors so that the three characteristics of conditioned realities,
+namely: impermanence (anicca), dukkha and non-self (anattā), can be
+penetrated more and more. When paññā has clearly understood these
+three characteristics enlightenment can be attained. Paññā which has
+become lokuttara paññā experiences nibbāna, the unconditioned
+reality. Nibbāna does not arise and fall away; it is the end of the
+arising and falling away of nāma and rūpa, the end of birth, old age,
+sickness and death. Nibbāna is the end of dukkha. When one has
+attained the first stage of enlightenment, the stage of the sotāpanna,
+it is certain that there will eventually be an end to the cycle of
+birth and death, an end to dukkha. When the person who is not an arahat
+dies, the last citta of his life, the cuti-citta (dying-consciousness)
+is succeeded by the paṭisandhi-citta (rebirth-consciousness) of the
+next life and thus life goes on. So long as there are defilements life
+has to continue. The fact that we are here in the human plane is
+conditioned by defilements. Even if there is birth in a heavenly plane,
+in a rūpa-brahma plane or in an arūpa-brahma plane, it is conditioned
+by defilements. The arahat has no more defilements, he does not have to
+be reborn in any plane. For him there will not be the arising of nāma
+and rūpa in a new life any more, and this means the end to the cycle
+of birth and death. We read in the Kindred Sayings (IV, Kindred Sayings
+on Sense, Third Fifty, Chapter 5, §152, Is there a Method?), that the
+Buddha spoke to the monks about the method to realize through direct
+experience the end to dukkha:
+
+     “Herein, monks, a monk, seeing visible object with the eye,
+     either recognizes within him the existence of lust, malice and
+     illusion, thus: ‘I have lust, malice and illusion,’ or
+     recognizes the non-existence of these qualities within him, thus:
+     ‘I have not lust, malice and illusion.’ Now as to that
+     recognition of their existence or non-existence within him, are
+     these conditions, I ask, to be understood by belief, or
+     inclination, or hearsay, or argument as to method, or reflection
+     on reasons, or delight in speculation?’ ‘Surely not, lord.’
+     ‘Are not these states to be understood by seeing them with the
+     eye of wisdom?’ ‘Surely, lord.’ ‘Then, monks, this is the
+     method by following which, apart from belief… a monk could
+     affirm insight thus: Ended is birth, lived is the righteous life,
+     done is the task, for life in these conditions there is no
+     hereafter.’ ”
+
+   We then read that the same is said with regard to the experiences
+through the doorways of the ears, nose, tongue, bodysense and mind. The
+development of understanding of all that is real, also of one’s
+defilements, is the way leading to the eradication of defilements, to
+the end of rebirth. This is the end to dukkha.
+
+24 Latent Tendencies
+********************
+
+Defilements, akusala cetasikas, are of different levels, they may be
+subtle or more coarse. Defilements that are transgressions (vītikkama
+kilesa), are coarse defilements of the degree of unwholesome courses of
+action through body or speech. Defilements one is possessed with and
+that arise with akusala citta (pari- yuṭṭhāna kilesa) are medium
+defilements that disturb the citta. Latent tendencies (anusaya kilesa)
+are subtle defilements that lie dormant in the citta and do not arise
+but condition the arising of akusala citta. The latent tendencies are
+enumerated in the Tipiṭaka and the Commentaries, where it is stated
+that the Buddha, the Fully Enlightened One, understood these by his
+perfect knowledge of beings’ biases and underlying tendencies
+(āsayānusaya ñāṇa). Since each citta that arises and falls away
+is immediately succeeded by the next citta, unwholesome and wholesome
+behaviour and inclinations are accumulated from moment to moment and
+from life to life. The latent tendencies which are unwholesome
+inclinations that are accumulated are the following: sense-desire
+(kāma-rāga), aversion (paṭigha), conceit (māna), wrong view
+(diṭṭhi), doubt (vicikicchā), desire for becoming (continued
+existence, bhavarāga), and ignorance (avijjā). It is essential to
+have more understanding of the latent tendencies and their power. They
+are called subtle defilements because they do not arise with the
+akusala citta, but they are powerful. Since they have not been
+eradicated they can strongly condition and influence our behaviour.
+They lie dormant in the citta like microbes infesting the body. So long
+as they have not been eradicated we are like sick people, because they
+can condition the arising of akusala citta when there are the
+appropriate conditions. They can condition the arising of akusala citta
+even to the degree of transgression of sīla at any time, and thus,
+more defilements are accumulated again and added to the latent
+tendencies. The teaching of the latent tendencies helps us to see why
+the defilements in our life are so tenacious, arising again and again,
+and why their arising is unforeseeable and uncontrollable. When we
+study the enumeration of the latent tendencies, we should remember that
+these latent tendencies are not abstract notions. The latent tendency
+of sense-desire or sensuous clinging conditions akusala citta with
+attachment to any kind of pleasant object. We may have expectations as
+to kind words or praise from other people. This is selfish desire that
+has been deeply accumulated and is very powerful. The latent tendency
+of aversion conditions akusala citta with aversion, but we should know
+that this has many shades. It is not only a matter of hate or anger,
+but it also arises when we are upset or depressed because we do not
+receive the pleasant object we were hoping for. The latent tendency of
+conceit conditions the arising of akusala citta with clinging to the
+importance of self. It can arise on account of any object experienced
+through the six doorways, and it often motivates our speech and
+actions. All latent tendencies condition the arising of akusala citta,
+but because of accumulated ignorance we do not notice their arising, we
+are deluded time and again. The latent tendencies are subsequently
+eradicated by the lokuttara magga-citta of each of the four stages of
+enlightenment. Wrong view and doubt are eradicated at the first stage,
+the stage of the sotāpanna. At the second stage sense-desire and
+aversion are not yet eradicated but they are diminished. They are
+completely eradicated at the third stage, the stage of the anāgāmi.
+Conceit, desire for becoming and ignorance are eradicated at the stage
+of the arahat. Thus we see that the eradication of the latent
+tendencies takes a long time. It can only be achieved by the
+development of understanding of all dhammas appearing in daily life.
+
+25 The Seven Books of the Abhidhamma
+************************************
+
+26 Introduction
+***************
+
+The Abhidhamma consists of the following seven books:
+
+  1. Dhammasangaṇī (translated as “Buddhist Psychological
+     Ethics”, P.T.S. and also translated by U Kyaw, Myanmar.)
+
+  2. Vibhaṅga (translated as “Book of Analysis”, P.T.S.)
+
+  3. Dhātukathā (Translated as “Discourse on Elements”, P.T.S.)
+
+  4. Puggalapaññatti (Translated as “A Designation of Human
+     Types”, P.T.S.)
+
+  5. Kathāvatthu (Translated as “Points of Controversy”, P.T.S.)
+
+  6. Yamaka (the Book of Pairs, not translated into English)
+
+  7. Paṭṭhāna (Translated in part as “Conditional Relations”,
+     P.T.S. )
+
+   A summary of the contents of these seven books has been given by
+Ven. Nyanatiloka in his “Guide through the Abhidhamma Piṭaka”
+(B.P.S. Kandy, 1971) and also by U Kyaw Khine in the introduction to
+his translation of the Dhammasaṅganī. Therefore, I will render only
+some salient features of each book with the purpose to show that the
+classifications found in the Abhidhamma are not mere lists to be read
+and memorized. They all point to the investigation of the realities of
+our daily life. In this way the paññā is developed that sees
+realities as they are, as impermanent, dukkha and anattā. This kind of
+paññā leads to the eradication of defilements. The commentary to the
+Dhammasaṅganī, the first book, is the “Atthasālinī”, edited by
+the venerable Buddhaghosa and translated as “Expositor”. The
+Dhammasaṅganī begins with the Mātika, a table of contents or
+matrix, which is an introduction. It is more extensive than a table of
+contents. This mātikā has been arranged by way of triads and dyads.
+It is a survey of the contents of the first book and can even serve as
+an introduction to all seven books. Different groups of defilements
+have been listed, such as the intoxicants (āsavas), fetters, ties,
+floods, yokes, hindrances. After the Abhidhamma matrix there is a
+Suttanta matrix, explaining sutta terms. The Atthasālinī, the
+commentary to the Dhammasaṅganī, dedicates a whole chapter to
+explain the notions of the Mātika. The Mātikā begins with: kusala
+dhammā, akusala dhammā, avyākata dhammā. In these three terms all
+that is real has been contained. In avyākata dhammā, indeterminate
+dhammas, are included all realities that are not kusala or akusala,
+namely: vipākacittas, kiriyacittas, rūpas and nibbāna. The whole
+Tipiṭaka is directed towards the liberation from the cycle of birth
+and death through insight. This appears also in the Mātika, where we
+read (1013-1015):
+
+     "Dhammas going to building up; going to pulling down; going to
+     neither." The Atthasālinī elaborates: "... 'accumulation' means
+     that which is accumulated by kamma and corruptions. It is a name
+     for the processes of rebirth and decease. 'Leading to
+     accumulation' are 'those causes which by being accomplished to go
+     to, lead a man, in whom they arise, to that round of rebirth'. It
+     is a name for co-intoxicant moral or immoral states. Nibbāna
+     being free from 'cumulation', which is another word for
+     'accumulation', is called dispersion. 'Leading to dispersion' is
+     'going towards that dispersion which he has made his object.' It
+     is a name for the Ariyan Paths. Or, 'leading to accumulation' are
+     those states which go about severally arranging (births and deaths
+     in) a round of destiny like a bricklayer who arranges bricks,
+     layer by layer, in a wall.' 'Leading to dispersion' are those
+     states which go about destroying that very round, like a man who
+     continually removes the bricks as they are laid by the mason."
+
+
+27 The Dhammasaṅganī, the first Book of the Abhidhamma
+*********************************************************
+
+The Dhammasaṅganī, begins, after the Mātika, with a description of
+mahā-kusala citta accompanied by paññā. It enumerates all the
+sobhana cetasikas assisting this citta while they accompany it just for
+a moment. It refers to mahā-kusala citta experiencing an object, be it
+visible object, sound, odour, flavour, tangible object or dhamma
+object. This points to daily life. Time and again citta experiences an
+object through one of the six doors. The Dhammasaṅganī states with
+regard to the first type of mahā-kusala citta of the sense sphere:
+”At a time (yasmiṃ samaye) when mahā-kusala citta of the sense
+sphere accompanied by joy and associated with understanding has
+arisen...” and then sums up the accompanying cetasikas. The
+“Expositor” (p. 76) explains the word samaya as time, occasion,
+concurrence of conditions, the mutual contribution towards the
+production of a common result: “By this word showing thus the
+condition, the conceit of one who believes that states unconditionally
+follow one’s own will is subdued.” We cling to the idea of our own
+will that can direct dhammas, but this is not according to reality.
+Will or volition, be it wholesome, unwholesome or indeterminate, is
+only a conditioned element. The mahā-kusala citta is accompanied by
+the cetasikas that always accompany citta, the “universals”, such
+as contact, feeling or remembrance, saññā, as well as by the
+“particulars”, pakinnakas, cetasikas that accompany many cittas but
+not all. Then follows a list of all the sobhana cetasikas necessary for
+the arising of even one moment of kusala citta of the sense sphere. For
+example, the cetasika confidence or faith, saddhā, always has to
+accompany kusala citta. If there is no confidence in kusala, kusala
+citta could not arise. There have to be non-attachment and
+non-aversion. When we perform dāna or observe sīla we are not
+selfish, we are not thinking of our own pleasure and comfort. There is
+calm with each kusala citta, at such a moment there is no agitation.
+There has to be sati which is non-forgetful of kusala. Sobhana
+cetasikas are necessary so that mahā-kusala citta with paññā can
+arise just for one extremely brief moment and perform its function, and
+then citta and cetasikas fall away together. The cetasikas condition
+the citta by way of conascence-condition and by several other
+conditions. Thus, we cannot make kusala arise at will, it has no
+possessor; there is no one who can direct its arising. It arises when
+the right conditions are present and then it falls away immediately;
+nobody can cause it to last. All the sobhana cetasikas that fall away
+are accumulated from moment to moment so that there are conditions for
+the arising again of kusala citta. We shall see that several cetasikas
+are listed more than once under different aspects, such as
+understanding as faculty, or as power. The list ends with: sampajañña
+(sati and pañña), samatha, vipassanā, paggāha (grasp, which is the
+faculty of energy), avikkhepa (balance, self-collectedness, another
+word for ekaggata cetasika, one-pointedness or concentration). Thus we
+see that these lists are not a mere summing up, but that they point to
+the development of right understanding of realities.
+
+28 The Vibhaṅga, the Second Book of the Abhidhamma
+****************************************************
+
+The second book of the Abhidhamma is the Vibhaṅga, the Book of
+Analysis, and its commentary is the “Sammoha Vinodanī” ,
+translated as the “Dispeller of Delusion” (P.T.S.). The Vibhaṅga
+gives an explanation of the khandhas (aggregates), āyatanas (sense
+bases), dhātus (elements), and several other subjects. It gives
+explanations according to the Suttanta method, by way of conventional
+terms, and the Abhidhamma method, by way of ultimate realities. It also
+has sections of interrogation. The aim is, as is the case of the whole
+of the Abhidhamma, to develop right understanding of nāma and rūpa as
+they appear in daily life. This book helps one to know more about the
+deeper-lying motives of one’s thoughts and actions. One may take them
+for wholesome, but in fact there are very often selfish motives that
+are unnoticed. The section on ‘the Small Items’ (Khuddakavatthu
+Vibhaṅga) is most revealing in the descriptions of akusala such as
+conceit. It gives an impressive list of all the objects on account of
+which conceit may arise (832), namely: pride of birth, of clan, of
+health, of youth, of life, of gain, of being honoured, of being
+respected, of prominence, of having adherents, of wealth, of
+appearance, of erudition, of intelligence, of being a knowledgeable
+authority.... Conceit is compared to hoisting a banner; at the moment
+of conceit one finds oneself important. There are many definitions of
+akusala, but the purpose is to know them when they arise through the
+development of satipaṭṭhāna. We read in the section of “the
+Heart of the Teaching” (1031): “The three bad roots are to be known
+fully, are to be comprehended, are to be abandoned...” Abandonment
+can only be accomplished by fully knowing them and comprehending them.
+Among the many word explanations we read about understanding (here
+translated as awareness, 525): “Therein what is awareness? That which
+is wisdom, understanding, investigation, research, truth investigation,
+discernment, discrimination, differentiation, erudition, proficiency,
+subtlety, analysis, consideration, breadth, sagacity, guidance,
+insight, awareness, goad, wisdom, controlling faculty of wisdom, power
+of wisdom, sword of wisdom, tower of wisdom, light of wisdom, lustre of
+wisdom, splendour of wisdom, jewel of wisdom, absence of dullness,
+truth investigation, right view...” It is well worth to consider
+these definitions. When we read about the subtlety of wisdom we are
+reminded that the teachings are very subtle and have to be carefully
+considered. Only thus there can be the lustre and splendour of wisdom
+that causes the darkness of ignorance to disappear.
+
+29 The Dhātu-Kathā, the Third Book
+************************************
+
+The third book of the Abhidhamma is the Discourse on Elements,
+Dhātu-Kathā. This book deals with all realities, classified with
+reference to the khandhas, the āyatanas (translated as bases) and the
+dhātus, elements. It deals with realities that are ‘included’(
+sangahita), or not included (asangahita), and this pertains to the
+different classifications of dhammas. It deals with dhammas that are
+associated (sampayutta) or dissociated (vippayutta). Only nāma can be
+associated with another nāma, such as citta and cetasikas. Rūpa does
+not have such a close association with nāma. The charts added by the
+translator makes the reading of these classifications easier. But we
+should not forget that all these classifications pertain to the reality
+appearing at this moment. The khandhas are citta, cetasika and rūpa
+arising and falling away at this moment. When seeing arises, there is
+the khandha of consciousness, viññāṇakkhandha, and there are the
+accompanying cetasikas: the khandha of feeling, vedanākkhandha,
+saññākhandha, saṅkhārakkhandha (including other cetasikas apart
+from feeling and saññā), and there is eyesense which is
+rūpakkhandha. As to the āyatanas, there are six internal āyatanas
+and six external āyatanas. The internal āyatanas are the five senses
+and mind-base, manāyatana, which includes all cittas. The external
+āyatanas are the five sense objects and dammāyatana, which includes
+cetasikas, subtle rūpas and nibbāna. When we see, hear or think we
+believe that a self experiences different objects, but in reality there
+is the association of the internal āyatana and the external āyatana,
+the objects “outside”. As to the elements, these can be classified
+in different ways, and in this book they are classified as eighteen:
+the five senses, the five sense objects, the “five pairs” of
+sense-cognitions experiencing the five sense-objects (one of each pair
+being kusala vipākacitta and one akusala vipākacitta), and in
+addition: mind-element (mano-dhātu), dhamma-dhātu and
+mind-consciousness- element (mano-viññāṇa-dhātu). Mind-element
+and mind-consciousness-element comprise cittas other than the
+sense-cognitions. Dhamma-dhātu comprises cetasikas, the subtle rūpas
+(sukhuma rūpas) and nibbāna. In all these classifications concepts
+such as person or thing have not been included. Only paramattha dhammas
+have been included. We may think of concepts, but these are not real in
+the ultimate sense. Thinking itself is citta, it is a reality. If there
+is no understanding of realities as just elements, we shall continue to
+cling to the wrong view of self who sees, hears or thinks. Seeing is a
+dhātu that experiences an object, it is nāma. Visible object is
+rūpa, it is included in rūpakkhandha. Visible object or colour does
+not know anything, it is dissociated (vippayutta) from nāma, it is
+completely different from seeing.
+Dhātus are not mere names, they have characteristics that can be
+directly experienced when they appear. We are reminded by the
+Dhātukathā that the teaching on elements pertains to realities
+appearing at this moment which are anattā, devoid of a self.
+
+30 Puggalapaññatti, the fourth Book
+*************************************
+
+The fourth book of the Abhidhamma is the Puggalapaññatti (Translated
+as “A Designation of Human Types”). This book deals with the cittas
+and the different accumulated tendencies of individuals. Some people
+are easily inclined to anger, whereas others are full of mettā. We
+read about an angry person: ‘What sort of person is angry? What then
+is anger? That which is anger, and the state of being angry, hatred,
+hating, hatefulness, malice, the act of being malicious, maliciousness,
+hostility, enmity, rudeness, abruptness, resentment of heart- this is
+called anger. He who has not got rid of this anger is said to be an
+angry person.” In this definition we read about the “state of being
+angry”, and this teaches us that anger is not a person, that it is a
+dhamma which is conditioned. We think of an angry person, but anger,
+after it has arisen, is gone completely, it does not last. The contents
+of this book are the evil and good qualities of individuals, but
+actually, these are cetasikas, mental factors arising because of
+conditions. Thus, we are constantly reminded that these are not
+persons, they are impermanent and not self. We read (II, 17) about a
+person who is guarded as to the sense-doors. There is no person who is
+guarding the sense-doors, but the realities of sati and paññā are
+guarding the sense-doors. When there is mindfulness and understanding
+of visible object appearing through the eye-door, of sound appearing
+through the ear-door, of the other sense objects appearing through the
+other sense-doors, one is not enslaved by these objects but one learns
+to see these realities as they are: impermanent and non-self. At such
+moments there is no opportunity for akusala cittas rooted in lobha,
+dosa and moha. Some persons are able to attain jhāna, others do not.
+We read (I, 30):
+
+     “Which is the person who is twice-liberated
+     (ubhatobhāga-vimutta)? It is one who, in his own person, has
+     attained to the eight liberations (jhānas), and through wise
+     penetration his taints (āsava) have come to extinction.” (I,
+     31) “Which is the person who is liberated by wisdom
+     (paññā-vimutta)? It is one who has not attained, in his own
+     person, to the eight liberations, but through wise penetration his
+     taints have come to extinction.”
+     When we read about the attainments of different individuals we
+     should not forget that these are citta and cetasikas with highly
+     developed paññā.
+
+
+31 Kathāvatthu, the Fifth Book
+*******************************
+
+The Fifth book of the Abhidhamma is the Kathāvatthu (Translated as
+“Points of Controversy”). Its commentary has been translated as
+“The Debates Commentary”, P.T.S.) This book which is a treatise
+against schismatic monks has been composed by Moggali-putta-tissa. It
+was recited at the third Buddhist Council. The First Buddhist Council
+was held by fivehundred arahats headed by the Venerable Mahākassapa in
+Rājagaha shortly after the Buddha passed away. Here the Abhidhamma
+Piṭaka was also included along with the Vinaya and Suttanta. The
+Second Buddhist Council was held by sevenhundred arahats headed by the
+Venerable Mahāyasa one century after the Buddha’s passing away. The
+version of the Texts in the First Buddhist Council was re-approved or
+re-affirmed. The Third Buddhist Council was convened by King Asoka at
+Pataḷiputta, about 240 B.C. Thousand Arahats were headed by
+Moggaliputta-Tissa Thera who preached the Kathāvatthu treatise against
+schismatic monks. At that time there were seventeen schismatic schools.
+Thereupon, the Abhidhamma-Piṭaka reached its completeness and became
+seven books. The Kathāvatthu consists of questions and answers, it is
+a dialogue between the sakavādin (theravada) and the opponent. For
+example, the first question is: ‘Is there, in the absolute sense, any
+personality (puggala) to be found?’. In the teachings the term person
+is used in figurative speech, in conventional sense, but in the
+ultimate sense there is no person. Schismatic monks believed that a
+person really existed. Similar questions about the person or the world
+are raised today. We read, for instance, about questions on rebirth.
+The opponent thinks: ‘the person transmigrates’. The Sakavādin
+asks whether it is the identical person who transmigrates or a
+different person. Or, the question is asked (Ch VIII, 75) whether there
+is an intermediate stage between the end of a lifespan and the
+beginning of the next life at rebirth. This book covers a wide range of
+subjects, and each question is viewed from various angles. We read
+about speculative questions with regard to the Dependent Origination,
+the four Truths, kamma and result, emancipation, arahats, the future
+and the present, destinies, impermanence, jhāna attainments, insight
+and many other subjects. Such questions can remind us that so long as
+understanding of the dhamma appearing at this moment is not being
+developed stage by stage, there will always be doubt and ignorance of
+the truth.
+
+32 Yamaka, the Sixth Book of the Abhidhamma
+*******************************************
+
+The Sixth Book of the Abhidhamma is the ‘Yamaka”, the Book of
+Pairs. This book and its commentary have not been translated into
+English. Venerable Nyanatiloka renders a summary of it in his “Guide
+through the Abhidhamma Piṭaka”. This book consists of questions and
+answers about subjects such as the roots (mūla), the khandhas, the
+āyatanas, the dhātus, the four noble truths, the conditions and the
+anusayas, latent tendencies. These questions and answers can correct
+misunderstandings that may arise about the terms used in the
+scriptures. For instance, one may think that with regard to the first
+noble Truth, the Truth of dukkha, dukkha is the same as unhappy
+feeling. Dukkha is often translated as sorrow and this is misleading.
+We learn that the Truth of dukkha does not only refer to painful
+feeling but to all phenomena that arise because of conditions and fall
+away. Since they are impermanent they cannot be of any refuge and are
+therefore dukkha. The text of this book is rather compact and therefore
+it is most helpful to study it together with its commentary. We shall
+see that the subjects of this book are not theoretical but that they
+pertain to daily life. When we, for example, read about the latent
+tendencies, there are short lists, but the commentary goes very deeply
+into this subject, it is most revealing. As we have seen, the latent
+tendencies are sense desire, aversion, conceit, wrong view, doubt,
+craving for existence and ignorance. In the text we read: “Where does
+the bias of sensuous craving adhere? To the two feelings”. These are
+happy feeling and indifferent feeling. The commentary states: “When
+the latent tendency of sense desire arises it is conascent with
+unwholesome pleasant feeling or indifferent feeling, and it can also
+take these two feelings as object. It can also take as object the
+feelings that accompany kusala citta, vipākacitta and kiriyacitta of
+the sense-sphere.” We read in the commentary:
+
+     “When the latent tendency of sense desire arises...”
+
+   We should know that the word “arisen” (uppanna) has several
+meanings. In the context of the latent tendencies, it is said:
+
+     “arisen” in the sense of “having obtained a soil”
+     (bhumiladdhuppanna), which means: not cut off. “Arisen in the
+     sense of having obtained a soil” refers to the defilements which
+     have not been eradicated and which have obtained a soil. Thus, the
+     latent tendencies do not arise with the citta, they condition the
+     arising of akusala citta.
+
+   We also read in the commentary:
+
+     “Surely, the latent tendency of sense desire that adheres to an
+     object, does not merely adhere to these two feelings and to the
+     dhammas that are conascent with them. It also adheres to visible
+     object that is desirable, and so on.
+
+   The Buddha taught in the ‘Book of Analysis’ (Ch 16, Analysis of
+Knowledge, 816, And what is the latent tendency of beings?):
+
+     “That which in the world is a lovely thing, pleasant thing
+     (piyarūpaṃ, sātarūpaṃ), the latent tendency of sense desire
+     of beings adheres to this...”
+
+   Thus, desirable nāma dhammas and rūpa dhammas can be the objects
+of sense desire. When sense desire arises and has as object desirable
+nāmas and rūpas, the accumulation of the latent tendency of sense
+desire continues. Whenever there is a pleasant object sense desire
+clings. We can verify this in daily life. The only dhammas that are not
+objects of clinging are the nine lokuttara dhammas of nibbāna and the
+eight lokuttara cittas.
+
+33 The Paṭṭhāna, the seventh book of the Abhidhamma
+********************************************************
+
+The Seventh Book of the Abhidhamma is the “Paṭṭhāna”
+(translated partly by the Venerable U Nārada as “Conditional
+Relations”). The translator also wrote a “Guide to Conditional
+Relations” with many explanations. The “Paṭṭhāna” describes
+in detail all possible relations between phenomena. There are
+twentyfour classes of conditions. Each reality in our life can only
+occur because of a concurrence of different conditions which operate in
+a very intricate way. These conditions are not abstractions, they
+operate now, in our daily life. What we take for our mind and our body
+are mere elements which arise because of their appropriate conditions
+and are devoid of self. We should consider the conditions for the
+bodily phenomena which arise and fall away all the time. At the first
+moment of our life kamma produced the heart-base and other rūpas
+together with the rebirth-consciousness, and throughout our life kamma
+continues to produce the heartbase and the sense-bases. Not only kamma,
+but also citta, heat and nutrition produce rūpas of the body. The
+cittas which arise are dependent on many different conditions. We tend
+to forget that seeing is only a conditioned reality and that visible
+object is only a conditioned reality, and therefore we are easily
+carried away by sense impressions. Each citta experiences an object, be
+it a sense object or a mental object, and the object conditions citta
+by object-condition, ārammaṇa-paccaya. It is beneficial to remember
+that seeing, hearing and the other sense-cognitions are vipākacittas,
+cittas which are results of kamma. They arise at their appropriate
+bases, vatthus, which are also produced by kamma. Hearing is
+conditioned by sound which impinges on the earsense. Both sound and
+earsense are rūpas which also arise because of their own conditions
+and fall away. Thus, hearing, the reality which they condition, cannot
+last either; it also has to fall away. Each conditioned reality can
+exist just for an extremely short moment. When we understand this it
+will be easier to see that there is no self who can exert control over
+realities. How could we control what falls away immediately? When we
+move our hands, when we walk, when we laugh or cry, when we are
+attached or worried, there are conditions for such moments. Cittas
+succeed one another without any interval. The citta that has just
+fallen away conditions the succeeding citta and this is by way of
+proximity-condition, anantara-paccaya. Seeing arises time and again and
+after seeing has fallen away akusala cittas usually arise. In each
+process of cittas there are, after the sense-cognitions have fallen
+away, several moments of kusala cittas or akusala cittas, called
+javana-cittas. These experience the object in a wholesome way or
+unwholesome way. There are usually seven javana-cittas and each
+preceding javana-citta conditions the following one by way of
+repetition-condition, āsevana-paccaya. We cling to visible object, or
+we have wrong view about it, taking it for a being or a person that
+really exists. Defilements arise because they have been accumulated and
+they are carried on, from moment to moment, from life to life. They are
+a natural decisive support-condition, pakatūpanissaya-paccaya, for
+akusala citta arising at this moment. The study of conditions helps us
+to have more understanding of the “Dependent Origination”, the
+conditional arising of phenomena which keep beings in the cycle of
+birth and death. Each link of the Dependent Origination conditions the
+following one by way of several types of conditions. It is necessary to
+know which conditioning factors are conascent with the dhamma they
+condition and which are not. The “Paṭṭhāna” helps us to
+understand the deep underlying motives for our behaviour and the
+conditions for our defilements. It explains, for example, that kusala,
+wholesomeness, can be the object of akusala citta, unwholesome citta.
+On account of generosity which is wholesome, attachment, wrong view or
+conceit, which are unwholesome realities, can arise. The
+“Paṭṭhāna” also explains that akusala can be the object of
+kusala, for example, when akusala is considered with insight. This is
+an essential point which is often overlooked. If one thinks that
+akusala cannot be object of awareness and right understanding, the
+eightfold Path cannot be developed.
+
+34 Conclusion
+*************
+
+All the texts of the Tipiṭaka , including the Abhidhamma, are not
+meant merely for intellectual study or memorizing, they are directed to
+the practice, the development of vipassanā. All the classifications of
+cittas, cetasikas and rūpas are terse reminders of the truth, they are
+an exhortation to develop understanding of what appears at this moment.
+This is the development of the eightfold Path leading to the
+eradication of all defilements.
+
+
+
+Local Variables:
+coding: utf-8
+End:

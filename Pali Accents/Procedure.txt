@@ -1,0 +1,30 @@
+Open in Abiword save as RTF BV (openoffice cannot get rid of f
+Open in OpenOffice search replace ?. .
+Spell Check
+Find bold in glossary replace with bold + []
+ellipsis
+bigskip
+Find bold 18pt replace chapter[&]section*[[&]]
+find 18PT Question replace with
+Find bold 24pt delete
+utf8encoding
+Export as Latex
+Sed replace item[ with \item[
+Sed cleanup
+Sed Pali convert
+Kile
+%Converts to correct pali accents
+paliconvert
+s/\\aa/\\=a/g
+s/\\`u/\\d n/g.
+s/\\`o/\\.n/g
+s/\\'i/\\=\\i /g
+s/\\=\\i /\\=\\i{}/g
+s/\\`i/\\d t/g
+s/\\'u/\\=u/g
+s/\\^i/\\d l/g
+s/\\"y/\\d m/g
+
+sed -f paliconvert myfile.tex>newfile.tex
+\usepackage[utf8x]{inputenc} for latex preamble to keep accents.
+test

@@ -1,0 +1,44 @@
+About
+====
+
+*GREETINGS* and a *BIG WAVE* to *all SURFERS*. Zolag are publishers of Buddhist books
+and articles. Currently we have several books in print and on this site thousands
+of pages of books and articles for free download. We also have several unique books on various topics from the 'abhidhamma', `the theory of buddhism'. The aim of these books is to bridge the gap between theory and practice and help to give a precision to the  understanding of buddhism.
+
+TIP: If you are a beginner and want to get to grips with the core of Buddhism quickly-there is a quarter page article link:real.html[here], and a short 5 page article link:UR/index.html[here]. Also under the book
+section, link:books.html[Buddhism (and Abhidhamma) in Daily Life]. From the download section, The Buddha's Path.
+
+Resources
+---------
+.Mailing List
+http://groups.yahoo.com/group/dhammastudygroup/[]:: 
+A discussion forum for anyone interested in understanding the Buddha's teachings
+ as found in all three baskets of the Tipitaka. If you have any questions regarding content on this site then ask questions here.
+ 
+.Audio
+http://www.dhammastudygroup.org[]::
+Audio files of Buddhist discussions also be found here. 
+ 
+.Pictures
+http://www.zolag.co.uk/pix/index.html[Pictures of buddhist holy places]::
+Some pictures taken at the holy places in northern india.
+
+.What ever happened to Mrs Buddha?
+link:FAQ/index.html[FAQ-some questions and answers]::
+Most of which are taken from books on this site.
+
+.Pali Fonts 
+link:pali.html[Getting Pāli accents in text]::
+In order to view many of the books and articles downloaded from this site with
+the correct Pāli accents you will need special fonts. Otherwise they will show up
+as french and other types of accents. See this article on Pāli Accents. 
+
+.Contact
+email: aweller32ATgmail.com::
+Contact us at the above email where where AT=@.
+
+
+
+
+
+

@@ -1,0 +1,533 @@
+The Cycle Of Birth And Death (June 1, 2013)
+File: Birth_Death.doc
+Status: unedited
+
+Author: Nina van Gorkom
+Keywords: birth; death; cycle
+Publisher: Zolag
+Year: 2013
+Language: English
+Collection: opensource
+Description
+
+Discussions on the development of insight.
+
+Creative Commons license: Attribution 3.0
+
+---------------------
+
+The Perfections developed in Daily Life
+File: ThePerfectionesDevelopedInDailyLife.doc
+Staus: unedited
+
+
+Author: Nina van Gorkom
+Keywords: Perfections; buddhism; buddha
+Collection: opensource
+Description
+
+We have accumulated many kinds of defilements during countless lives and, thus, there are conditions for the arising of unwholesomeness, akusala, time and again. Because of our defilements we do not have enough strength to walk the Path the Buddha taught and therefore we need to accumulate all kinds of wholesome qualities which can support us while we develop right understanding of realities. We are not destined to become a Sammsambuddha, but if we develop the perfections along with satipatthana there are conditions to attain enlightenment, one day, during one life, we do not know when. When we develop the perfections we should not expect any gain for ourselves, our goal should be the eradication of defilements. If this is not our goal dana, si�la and the other wholesome qualities are not perfections leading to enlightenment.
+
+---------------------------
+
+Sri Lanka Revisited
+File: SLRefvisited.doc
+Status: unedited
+
+Author: Nina van Gorkom
+Keywords: Insight; vipassana
+Collection: opensource
+Description
+
+The development of insight
+---------------------------------
+
+Pilgrimage in India (9/9/12)
+File: Pilgrimmage_India.doc
+
+
+Author: Nina van Gorkom
+Keywords: insight; buddhism; vipassana; theravada; zolag
+Publisher: Zolag
+Collection: opensource
+Description
+
+This pilgrimage in India, in 1975, was my third one in a long series that would follow. Acharn Sujin Boriharnwanaket, our friend in the Dhamma and our teacher, was our spiritual leader and Khun Suwat Chansuvityanant was in charge of the organisation of the tour. The late venerable Bhikkhu Dhamma-dharo from Australia who had recently been ordained, venerable Jetanando, a novice (samanera) from Japan, Jonothan Abbot, and a few friends from Thailand also joined this tour. Khun Suwat who would also organise all the following pilgrimages in India, always found a suitable picknick spot in the fields when the bus drivers had to take a break. There were often flat tyres or other defects of the bus and then we could walk along in the village and have some tea. Since our group was small we could stay in Thai temples on the way. Acharn Sujin helped us all the way with reminders of the Dhamma, for example, when the bus had to stop and we were walking up and down, waiting. In each of the holy places texts were read that related to that particular place. Venerable Bhikkhu Dhammadharo explained the Dhamma with great enthusiasm, emphasizing that, in whatever situation we would be, there were just mental phenomena, nåma and physical phenomena, rúpa, appearing through the six doorways. We discussed the Buddha�s perfections as we did during each pilgrimage. These were the indispensable conditions for his attainment of Buddhahood. We were reminded that also for us the development of the perfections along with satipaììhåna is a necessary condition for the attainment of enlightenment.
+
+Creative Commons license: Attribution-No Derivative Works 3.0 
+-------------------------------------------------------------
+
+The Buddhist Teaching on Physical Phenomena (2009)
+File: 978189633250.pdf, rup.odt, ruptex19_2_09.tex
+Status: In print
+
+
+Author: Nina van Gorkom
+Keywords: abhidhamma; buddhism; theravada; theravada buddhism; tipitaka; physical phenomena;
+Publisher: Zolag
+Year: 2009
+Language: English
+Collection: opensource
+Description
+
+A general introduction to physical phenomena and the way they are related to each other and to mental phenomena. The purpose of this book is to show that the study of both mental phenomena and physical phenomena is indispensable for the development of the eightfold Path. The quotations from the scriptures provide the reader with lively examples of the way the physical phenomena, which are depending on conditions, perform their functions in daily life. The study of this book will help the reader to understand the Buddha's teaching of non-self. This book is suitable for those who already have some knowledge of Buddhism. Price Uk £12.95. Published 2008, 9in x 5in, 100 pages.
+
+Creative Commons license: Attribution-No Derivative Works 3.0 
+--------------------------------------------------------------
+
+The Conditionality of Life (2010)
+
+Status: in print
+
+Author: Nina van Gorkom
+Keywords: abhidhamma; buddhism; theravada; theravada buddhism; tipitaka; condition
+Publisher: Zolag
+Year: 2010
+Collection: opensource
+Description
+
+Why do we do what we do? why do we see what we see? Seeing, attachment, generosity, all experiences in life can arise only because of a concurrence of conditions. This book is an introduction to the seventh book of the Abhidhamma, that deals with the conditionality of life. It explains the deep underlying motives for all actions through body, speech and mind and shows that these are dependent on conditions and cannot be controlled by a �self�. The study of conditions is indispensable for understanding the teaching of the �Dependent Origination�, the factors that condition our being in the cycle of birth and death. It will help the reader to understand the meaning of the Buddha�s teaching of non-self, which can lead to the eradication of wrong view and liberation from the cycle of birth and death. This book that deals with the intricacy of conditions is suitable for those who have already made a study of the Buddha�s teachings.
+
+Creative Commons license: Attribution-No Derivative Works 3.0 
+
+cond.html                                          17-Apr-2011 06:05              446019
+cond.pdf                                           17-Apr-2011 06:05              484991
+cond.texi.tar.gz                                   17-Apr-2011 06:05              549948
+cond.txt                                           17-Apr-2011 06:05              389113
+
+--------------------------------------
+
+Pilgrimage in Sri Lanka (26/7/12)
+File: Sri_Lanka.doc
+Status: unedited
+
+Author: Nina van Gorkom
+Keywords: insight; buddhism; vipassana; theravada; zolag
+Publisher: zolag
+Collection: opensource
+Description
+
+Discussions on Buddhism taken from seminars in Sri Lanka.
+
+Creative Commons license: Attribution-No Derivative Works 3.0 
+------------------------------------------------------------------
+Various Articles (2010)
+Status: all unedited
+
+Author: Nina van Gorkom
+Keywords: buddhism; theravada; theravada buddhism; tipitaka;
+Publisher: Zolag
+Year: 2010
+Language: English
+Collection: opensource
+Description
+
+Alone with dhamma, Letters from Nina, Meaning of dhamma , Alone with dhamma , Perseverence in dhamma , Journey in Egypt , Time with Sujin.
+
+Creative Commons license: Attribution-No Derivative Works 3.0 
+
+Journey_Egypt.doc                                  17-Apr-2011 10:32              332800
+Journey_Egypt.pdf                                  17-Apr-2011 10:32              229838
+VariousArticles_files.xml                          20-Apr-2011 17:05                3889
+VariousArticles_meta.xml                           20-Apr-2011 17:05                1116
+alone_with_dhamma.pdf                              17-Apr-2011 10:32              153184
+alone_with_dhamma.txt                              17-Apr-2011 10:32               61835
+letters_from_nina1.html                            17-Apr-2011 10:32               58675
+letters_from_nina2.html                            17-Apr-2011 10:32               51951
+letters_from_nina3.html                            17-Apr-2011 10:33               43008
+meaning_of_dhamma.rtf                              17-Apr-2011 10:33               38213
+meaning_of_dhamma.txt                              17-Apr-2011 10:33               35285
+perseverence_in_dhamma.html                        17-Apr-2011 10:33              115036
+time_with_sujin.html                               17-Apr-2011 10:33               39114
+----------------------------------------------------------------------------------------
+Pali Glossary (2010)
+
+Status: not in print
+
+Author: Alan Weller
+Keywords: abhidhamma; buddhism; theravada; theravada buddhism; tipitaka;
+Publisher: Zolag
+Year: 2010
+Book contributor: Nina van Gorkom
+Collection: opensource
+Description
+
+Glossary of Pali terms used in Zolag publications
+
+Creative Commons license: CC0 1.0 Universal
+
+Files:
+pali_glossary.doc                                  17-Apr-2011 10:23              161792
+pali_glossary.pdf                                  17-Apr-2011 10:23               71313
+------------------------------------------------------------------------------------------
+
+Love and Attachment (1979)
+
+
+Author: Sarah Procter Abbott
+Keywords: buddhism; theravada; theravada buddhism; tipitaka;
+Publisher: Zolag
+Year: 1979
+Language: English
+Collection: opensource
+Description
+
+The meaning of falling in Love in Buddhism
+
+Creative Commons license: Attribution-No Derivative Works 3.0 
+
+love_and_attachment.doc                            17-Apr-2011 10:17              208384
+love_and_attachment.pdf                            17-Apr-2011 10:17               62470
+-----------------------------------------------------------------------------------------
+
+Introduction to the Buddhist Scriptures (2010)
+
+
+Author: Nina van Gorkom
+Keywords: buddhism; theravada; theravada buddhism; tipitaka;
+Publisher: Zolag
+Year: 2010
+Language: English
+Collection: opensource
+Description
+
+Intoduction to the Tipitaka
+
+Creative Commons license: Attribution-No Derivative Works 3.0 
+
+intobuddhistscriptures.zip                         17-Apr-2011 10:12               67153
+-----------------------------------------------------------------------------------------
+
+Phrases on Buddhism (2010)
+
+
+Author: Alan Weller
+Keywords: Buddhism; theravada; Theravada buddhism; beginner buddhism;
+Publisher: Zolag
+Year: 2010
+Book contributor: Sarah Abbott
+Collection: opensource
+Description
+
+Some phrases on the development of the eightfold path.
+
+Creative Commons license: Attribution 3.0
+
+phrases.html                                       17-Apr-2011 07:51               34213
+phrases.pdf                                        17-Apr-2011 07:51               66570
+phrases.tex                                        17-Apr-2011 07:51               28341
+phrases.txt                                        17-Apr-2011 07:51               25566
+------------------------------------------------------------------------------------------
+
+Deeds of Merit (2010)
+
+
+Author: Nina van Gorkom
+Keywords: buddhism; theravada; theravada buddhism; tipitaka;
+Publisher: Zolag
+Year: 2010
+Language: English
+Collection: opensource
+Description
+
+Various articles not formatted
+
+Creative Commons license: Attribution-No Derivative Works 3.0 
+
+deedsofmerit.zip                                   17-Apr-2011 08:16               67514
+
+------------------------------------------------------------------------------------------
+
+Asoka's Footsteps (2010)
+
+
+Author: Nina van Gorkom
+Keywords: buddhism; theravada; theravada buddhism; tipitaka;
+Publisher: Zolag
+Year: 2010
+Collection: opensource
+Description
+
+A pilgrimage to India.(Unformatted)
+
+Creative Commons license: Attribution-No Derivative Works 3.0
+
+asoka_footsteps.pdf                                17-Apr-2011 08:03              136165
+asokasfootsteps.zip                                17-Apr-2011 08:03               59289
+-----------------------------------------------------------------------------------------
+
+Pali Accents (2010)
+
+
+Author: Alan Weller
+Keywords: Pali; Pali accents; diacriticals
+Publisher: Zolag
+Year: 2010
+Language: English
+Collection: opensource
+Description
+
+How Zolag gets its Pali accents in books and articles.
+
+Creative Commons license: CC0 1.0 Universal
+
+paccents.html                                      17-Apr-2011 07:43                8241
+paccents.pdf                                       17-Apr-2011 07:43               51842
+paccents.texi.tar.gz                               17-Apr-2011 07:43                2572
+paccents.txt                                       17-Apr-2011 07:43                5317
+-----------------------------------------------------------------------------------------
+
+Letters on Vipassana (2000)
+
+
+Author: Nina van Gorkom
+Keywords: abhidhamma; buddhism; theravada; theravada buddhism; tipitaka;
+Publisher: Zolag
+Year: 2000
+Language: English
+Collection: opensource
+Description
+
+Several letters on the development of vipassana (insight meditation). Unformatted
+
+Creative Commons license: Attribution-No Derivative Works 3.0 
+
+letters_on_vipassana.zip                           17-Apr-2011 07:36              114131
+letters_on_vipassana_00.pdf                        17-Apr-2011 07:36              240787
+-----------------------------------------------------------------------------------------
+
+Understanding Reality
+
+
+Author: Nina van Gorkom
+Keywords: buddhism; theravada; theravada buddhism; tipitaka;
+Publisher: Zolag
+Language: English
+Collection: opensource
+Description
+
+A short 5 page introduction to Buddhism.
+
+Creative Commons license: Attribution-No Derivative Works 3.0 
+
+ur.html                                            17-Apr-2011 07:20               18305
+ur.pdf                                             17-Apr-2011 07:20               45123
+ur.texi.tar.gz                                     17-Apr-2011 07:20                6033
+ur.txt                                             17-Apr-2011 07:20               16830
+-----------------------------------------------------------------------------------------
+
+The Buddha's Path (April 16, 2011)
+
+
+Author: Nina van Gorkom
+Keywords: buddhism; theravada; theravada buddhism; tipitaka;
+Publisher: Zolag
+Year: 2011
+Language: English
+Collection: opensource
+Description
+
+An Introduction to the doctrine of Theravada Buddhism for those who have no previous knowledge. The four noble Truths - suffering - the origin of suffering - the cessation of suffering - and the way leading to the end of suffering - are explained as a philosophy and a practical guide which can be followed in todays world.
+
+Creative Commons license: Attribution-No Derivative Works 3.0 
+
+bp.html                                            21-Apr-2011 05:48              248512
+bp.odt                                             21-Apr-2011 05:48              240987
+bp.pdf                                             21-Apr-2011 05:48              295622
+bp.txt                                             21-Apr-2011 05:49              233306
+-----------------------------------------------------------------------------------------
+
+Taking Refuge in Buddhism (2000)
+
+
+Author: Sujin Boriharnwanaket
+Keywords: abhidhamma; buddhism; theravada; theravada buddhism; tipitaka;
+Publisher: Zolag
+Year: 2000
+Language: English
+Book contributor: Nina van Gorkom
+Collection: opensource
+Description
+
+Taking Refuge in Buddhism is an introduction to the development of insight meditation. The book is composed of lectures and discussions with Cambodians. Although some background knowledge of Buddhism is assumed, it could also be appreciated by the beginner.
+
+Creative Commons license: Attribution-No Derivative Works 3.0
+
+taking_refuge_in_buddhism.pdf                      17-Apr-2011 07:09              201290
+taking_refuge_in_buddhism.rtf                      17-Apr-2011 07:09              232421
+taking_refuge_in_buddhism.txt                      17-Apr-2011 07:09              172057
+----------------------------------------------------------------------------------------
+
+Metta, Loving Kindness in Buddhism (1995)
+
+
+Author: Sujin Boriharnwanaket
+Keywords: abhidhamma; buddhism; theravada; theravada buddhism; tipitaka;
+Publisher: Zolag
+Year: 1995
+Language: English
+Book contributor: Nina van Gorkom
+Collection: opensource
+Description
+
+An introduction to the basic Buddhist teachings of mett�, loving kindness, and its practical application in today's world. The book is a compilation of lectures given by the author, Ms. Sujin Boriharnwanaket, in the Boranives Temple, Bangkok, for mixed groups of scholars, monks and lay people. Part of the book features questions and answers raised during the lectures. Although some background of Buddhism is assumed much of the text would be appreciated by the complete beginner.
+
+Creative Commons license: Attribution-No Derivative Works 3.0
+
+Mettf5.odt                                         17-Apr-2011 06:59               79215
+Mettf5.rtf                                         17-Apr-2011 07:00              421955
+mett5f.tex                                         17-Apr-2011 06:59              225864
+----------------------------------------------------------------------------------------
+
+
+World in the Buddhist Sense (1993)
+
+
+Author: Nina van Gorkom
+Keywords: abhidhamma; buddhism; theravada; theravada buddhism; tipitaka;
+Publisher: Zolag
+Year: 1993
+Language: English
+Collection: opensource
+Description
+
+The purpose of this book is to show that the Buddhas Path to true understanding has to be developed in daily life. It explains the pitfalls one will come across while developing this path and the way to overcome them. The book is composed of letters written in answer to questions about the practice and is suitable for those who already have a background knowledge of Buddhism but who seek a deeper understanding.
+
+Creative Commons license: Attribution-No Derivative Works 3.0 
+
+world_in_the_buddhist_sense.html                   17-Apr-2011 06:49               17894
+world_in_the_buddhist_sense.rtf                    17-Apr-2011 06:49              217360
+world_in_the_buddhist_sense.txt                    17-Apr-2011 06:49              198571
+----------------------------------------------------------------------------------------
+
+A Survey of Paramattha Dhammas (2006)
+Status: in print
+
+Author: Sujin Boriharnwanaket
+Keywords: abhidhamma; buddhism; theravada; theravada buddhism; tipitaka;
+Publisher: Zolag
+Year: 2006
+Language: English
+Book contributor: Nina van Gorkom
+Collection: opensource
+Description
+
+A Survey of Paramattha Dhammas is a guide to the development of the Buddha's path of wisdom, covering all aspects of human life and human behaviour, good and bad. This study explains that right understanding is indispensable for mental development, the development of calm as well as the development of insight The author describes in detail all mental phenomena (citta and cetasika), and physical phenomena (rupa) and explains the processes of mental phenomena that experience objects through the sense-doors and the mind-door. The last chapters are in the form of questions and answers and deal with the problems one may face in the development of insight. For precision many Pali terms are used but nevertheless the book could be appreciated by both beginners and as well as those who have more background knowledge.
+
+Creative Commons license: Attribution-No Derivative Works 3.0 
+
+Surveyrevised10512unedited.doc                     12-May-2012 06:06             3116032
+survey.zip                                         17-Apr-2011 06:32              209291
+survey_of_p_p.pdf                                  17-Apr-2011 06:32             1278147
+------------------------------------------------------------------------------------------
+
+
+The Perfections Leading to Enlightenment
+Status: in print
+
+Author: Nina van Gorkom
+Keywords: abhidhamma; buddhism; theravada; theravada buddhism; tipitaka; perfections;
+Publisher: Zolag
+Language: English
+Collection: opensource
+Description
+
+The Perfections leading to Enlightenment is now published and is available to order via amazon in US and UK. The Perfections is a study of the ten good qualities: generosity, morality, renunciation, wisdom, energy, patience, truthfulness, determination, loving-kindness, and equanimity. It shows when they are considered perfections and what hinders them. It shows the importance of developing them in daily life and how their cultivation is essential for the complete eradication of all defilements. Many quotes are used from the the original scriptures of Theravada Buddhism and for precision of understanding some P�li terms are used. The author is a prolific writer and broadcaster of Buddhist scriptures and has had several books published worldwide.
+
+Creative Commons license: Attribution-No Derivative Works 3.0 
+
+perfectionsbook220307.odt                          17-Apr-2011 06:24              156862
+perfectionsbook220307.pdf                          17-Apr-2011 06:24              724325
+perfectionsbook220307.txt                          17-Apr-2011 06:24              422207
+----------------------------------------------------------------------------------------
+
+Cetasikas (2010)
+Status: Out of print
+
+Author: Nina van Gorkom
+Keywords: Abhidhamma; theravada buddhism; buddhism; theravada; tipitaka;
+Publisher: Zolag
+Year: 2010
+Collection: opensource
+Description
+
+Cetasika means belonging to the mind. It is a mental factor which accompanies consciousness (citta) and experiences an object. There are 52 cetasikas. This book gives an outline of each of these 52 cetasikas and shows the relationship they have with each other. It will help the student have more understanding of the intricate operations of the mind enabling the development of good qualities and the eventual eradication of all defilements. It will help to understand that citta and cetasika act according to their own conditions and that an abiding agent (soul or self) is not to be found. The book assumes some previous knowledge of Buddhism.
+
+Creative Commons license: Attribution-No Derivative Works 3.0 
+
+cet.html                                           17-Apr-2011 05:58              879492
+cet.pdf                                            17-Apr-2011 05:58             1055199
+cet.texi.tar.gz                                    17-Apr-2011 05:58              349804
+cet.txt                                            17-Apr-2011 05:58              794645
+cetasikasrev31512.doc                              03-Jun-2012 07:35             2294272
+------------------------------------------------------------------------------------------
+
+Buddhism in Daily Life (2010)
+Status: Out of print
+
+Author: Nina van Gorkom
+Keywords: Buddhism; theravada; Theravada buddhism; beginner buddhism;
+Publisher: Zolag
+Year: 2010
+Collection: opensource
+Description
+
+A general introduction to the main ideas of Theravada Buddhism. The purpose of this book is to help the reader gain insight into the Buddhist scriptures and the way in which the teachings can be used to benefit both ourselves and others in everyday life. Several chapters are written in the form of question and answer, inspired by questions posed by ordinary people who were confronted with difficulties in the practical application of the teachings. The book will be an invaluable aid for those individuals who wish to develop the Buddhist path to true understanding. Suitable for both practicing Buddhists and newcomers to the teachings
+
+Creative Commons license: Attribution-No Derivative Works 3.0
+
+bdl.html                                           17-Apr-2011 05:40              431406
+bdl.pdf                                            17-Apr-2011 05:40              510324
+bdl.texi.tar.gz                                    17-Apr-2011 05:40              120168
+bdl.txt                                            17-Apr-2011 05:40              399099
+------------------------------------------------------------------------------------------
+
+Abhidhamma in Daily Life (2010)
+
+
+Author: Nina van Gorkom
+Keywords: Abhidhamma; Theravada Buddhism; Buddhism; Tipitaka;
+Publisher: Zolag
+Year: 2010
+Collection: opensource
+Description
+
+Abhidhamma in Daily Life is an exposition of absolute realities in detail. Abhidhamma means higher doctrine and the book's purpose is to encourage the right application of Buddhism in order to eradicate wrong view and eventually all defilements. Many terms in P�li the language of early Buddhism are used and are defined as they are introduced. The book is therefore suitable for beginners as well as practicing Buddhists. It is detailed and precise and an invaluable aid to unlocking the deep meaning of the entire Buddhist canon and applying the theory to our daily lives for the benefit of ourselves and others.
+
+Creative Commons license: Attribution-No Derivative Works 3.0
+
+abh.html                                           17-Apr-2011 05:49              580679
+abh.pdf                                            17-Apr-2011 05:49              666177
+abh.texi.tar.gz                                    17-Apr-2011 05:49              152332
+abh.txt                                            17-Apr-2011 05:49              528997
+
+Abhidhamm_in_Daily_Life_for_Nina_working_5_with_glossary.docx (ADL as formatted by Tom Westheimer and Betty)
+-----------------------------------------------------------------------------------------
+
+Introduction to the Abhidhamma (April 16, 2011)
+Status: unedited
+
+Author: Nina van Gorkom
+Keywords: Abhidhamma; buddhism; theravada; theravada buddhism; beginner buddhism;
+Publisher: Zolag
+Year: 2011
+Book contributor: Nina van Gorkom
+Collection: opensource
+Description
+
+Abhidhamma is an exposition of absolute realities in detail. Abhidhamma means higher doctrine and the book's purpose is to encourage the right application of Buddhism in order to eradicate wrong view and eventually all defilements. Many terms in Pali the language of early Buddhism are used and are defined as they are introduced. The book is therefore suitable for beginners as well as practising Buddhists. It is detailed and precise and an invaluable aid to unlocking the deep meaning of the entire Buddhist canon and applying the theory to our daily lives for the benefit of ourselves and others.
+
+Creative Commons license: Attribution-No Derivative Works 3.0 
+
+iabh.html                                          16-Apr-2011 09:40              135614
+iabh.pdf                                           16-Apr-2011 08:02              196376
+iabh.txt                                           16-Apr-2011 09:26              119572
+-----------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+

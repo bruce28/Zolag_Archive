@@ -1,0 +1,14 @@
+Pali Accents (2010)
+
+
+Author: Alan Weller
+Keywords: Pali; Pali accents; diacriticals
+Publisher: Zolag
+Year: 2010
+Language: English
+Collection: opensource
+Description
+
+How Zolag gets its Pali accents in books and articles.
+
+Creative Commons license: CC0 1.0 Universal

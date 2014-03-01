@@ -1,0 +1,184 @@
+\input texinfo
+@c $Id: paccents.texi,v 1.2 2010/08/09 19:01:16 alan Exp alan $
+@c %**start of header
+@setfilename PA.info
+@settitle Pāli Accents
+@documentencoding UTF-8
+@c %**end of header 
+@copying
+ 
+
+First published by Zolag July 2010
+
+Revision 1.00
+
+$Id: paccents.texi,v 1.2 2010/08/09 19:01:16 alan Exp alan $
+
+
+@end copying
+
+@titlepage
+@title Pāli Accents
+
+
+@author Alan Weller
+@c The following two commands
+@c start the copyright page.
+
+@insertcopying
+
+@end titlepage
+
+
+@ifnottex
+
+by Alan Weller
+
+Updated 9/08/10
+
+$Id: paccents.texi,v 1.2 2010/08/09 19:01:16 alan Exp alan $
+
+___________________________________________________________________
+
+@end ifnottex
+
+
+
+
+
+
+
+
+
+
+
+
+@unnumberedsec Getting Pāli accents in Text and on the Web
+@unnumberedsubsec Introduction
+by Alan Weller 
+
+www.zolag.co.uk 
+
+This article pertains to the above website and is intended to help get correct Pāli accents with articles and books.
+Over the years the methods of getting correct accents in text and on the web has changed. Zolag's current method is to use a modern unicode font. The examples below show all of the  characters currently in use:
+
+
+ā
+ī
+ṇ
+ñ
+ū
+ṭ
+ṅ
+ḷ
+Ñ
+Ā
+ṁ
+ṣ
+ṃ
+ḍ
+
+However before this there were three main ways we used.
+
+@unnumberedsubsec Special Fonts and Latex
+The table shows two ways we have used to get Pāli characters as in the left column. 
+
+@enumerate
+@item
+By using a specially modified font eg pCharter. This translates typed characters in the 2nd column (available in most font sets ) to the first. This font was then used in Openoffice.
+
+@item
+For printed documents, by using Latex. Latex codes in the last column get the characters in the first column. 
+
+OpenOffice can export to Latex. If a document is written using the pCharter font, then it is converted to Latex by exporting in OpenOffice and then doing a search and replace on 3rd column with fourth column. This is because OpenOffice will produce Latex codes as in the third column. Sounds complicated-it is! pCharter font Normal font Latex code Latex code to get to get to get 1st column 2nd column.
+@end enumerate
+@multitable @columnfractions .15 .15 .15 .15
+@headitem Pcharter font @tab Standard font @tab Latex code to get 2nd
+column @tab Latex code to get first column
+
+@item ā
+@tab å
+@tab \aa
+@tab \=a
+
+@item ṇ 
+@tab ù 
+@tab \`u
+@tab \d n
+
+@item ñ
+@tab ñ
+@tab \~n
+@tab \~n
+
+@item ṅ
+@tab ò
+@tab \`o
+@tab \.n
+
+@item ī
+@tab í
+@tab \'i
+@tab \=\ i@{@}
+brackets to get space after i
+
+@item ṭ
+@tab ì
+@tab \`i
+@tab \d t
+
+@item ū
+@tab ú
+@tab \'u
+@tab \=u
+
+@item ḷ
+@tab î
+@tab \^i
+@tab \d l
+
+@item ṃ
+@tab ÿ
+@tab \"y
+@tab \d m
+
+@item ṁ
+@tab ó
+@tab \`m
+@tab \.m
+
+
+@end multitable
+
+
+@unnumberedsubsec The Velthuis scheme
+
+The scheme below taken from:
+@itemize
+@item
+@url{http://www.cambodianbuddhist.org/english/website/Pāli/index.html} 
+@end itemize
+
+@noindent was  a better way of writing the text and displaying it on the web and still retain accent information. 
+
+We have used this scheme on some web pages (html)
+
+N.B There is no need for this now as the unicode font can be used for both text and htnl
+
+
+“The Velthuis scheme: double the vowels, punctuate the consonants. This scheme was originally developed in 1991 by Frans Velthuis for use with his "devnag" Devanagari font, designed for the TEX typesetting system (@url{see http://www.ctan.org/}.)
+
+Pāli and Sanskrit scholars have since adopted it as a standard technique in Internet correspondence (see, for example, the BUDDHA-L discussion group and the Journal of Buddhist Ethics). In the Velthuis scheme two basic rules are observed: 
+Long vowels (those usually typeset with a macron (bar) above them) are doubled: aa ii uu 
+For consonants, the diacritic mark precedes the letter it affects. Thus, the retroflex (cerebral) consonants (usually typeset with a dot underneath) are: .r .t .th .d .dh .n .m .s .l. The guttural nasals (m or n with a dot above) are represented by "m and "n . The palatal nasal (n with a tilde) is ~n. 
+This scheme is precise, although it does take some getting used to: 
+paa.naatipaataa verama.nii sikkhaa-pada.m samaadiyaami.”
+
+@unnumberedsec Current Method of Typsetting
+
+We now use the unicode font and texinfo to produce output in different formants for print and web.
+
+Tip: Download the source of this document to get the unicode characters giving the Pāli accents
+
+@bye
+
