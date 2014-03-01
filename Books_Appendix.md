@@ -10,6 +10,10 @@ of Theravada Buddhism.The purpose of this book is to help the reader
 gain insight into the Buddhist scriptures and the way in which the
 teachings can be used to benefit both ourselves and others in everyday
 life.
+- **Abhidhamma in Daily Life** is an exposition of absolute realities
+in detail. Abhidhamma means higher doctrine and the book's purpose
+is to encourage the right application of Buddhism in order to eradicate
+wrong view and eventually all defilements.
 
 - **Cetasikas** Cetasika means 'belonging to the mind'. It is a mental
 factor which accompanies consciousness (citta) and experiences an
@@ -37,3 +41,4 @@ insight.
 - **The Perfections Leading to Enlightenment** by Sujin Boriharnwanaket. The Perfections is a study of the ten good qualities: generosity, morality, renunciation,
 wisdom, energy, patience, truthfulness, determination, loving-kindness,
 and equanimity.
+
