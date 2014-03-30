@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "14 Big ideas of Buddhism"
-date:   2014-2-7 17.00
+title:  "Understanding Reality"
+date:   2014-3-30
 categories: 
 ---
 
-bbbbbbbb
+
