@@ -1,5 +1,5 @@
-The Buddha's Path (April 16, 2011)
-Status: out of print
+The Buddha's Path (April 12, 2014)
+Status: Published 21st April 2014
 
 Author: Nina van Gorkom
 Keywords: buddhism; theravada; theravada buddhism; tipitaka;
@@ -7,6 +7,7 @@ Publisher: Zolag
 Year: 2011
 Language: English
 Collection: opensource
+ISBN 9781897633298
 Description
 
 An Introduction to the doctrine of Theravada Buddhism for those who have no previous knowledge. The four noble Truths - suffering - the origin of suffering - the cessation of suffering - and the way leading to the end of suffering - are explained as a philosophy and a practical guide which can be followed in todays world.
