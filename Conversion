@@ -4,4 +4,5 @@ Texi to Markdown
 @end itemize delete
 @item return with - space
 @section with #
-@footenote{ with [^x]
+@footnote{ with [^x]
+l@dots{} with ...
