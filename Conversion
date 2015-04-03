@@ -1,0 +1,7 @@
+Texi to Markdown
+'' with " '' with "
+@itemize delete
+@end itemize delete
+@item return with - space
+@section with #
+@footenote{ with [^x]
