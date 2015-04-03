@@ -6,3 +6,5 @@ Texi to Markdown
 @section with #
 @footnote{ with [^x]
 l@dots{} with ...
+@emph{ with *
+} with *
