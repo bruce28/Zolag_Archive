@@ -1,10 +1,4 @@
-Texi to Markdown
-'' with " '' with "
-@itemize delete
-@end itemize delete
-@item return with - space
-@section with #
-@footnote{ with [^x]
-l@dots{} with ...
-@emph{ with *
-} with *
+texi to markdown
+texi2html bdl.texi
+
+pandoc bdl.html -o text
