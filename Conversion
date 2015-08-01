@@ -3,6 +3,10 @@ texi2html bdl.texi
 
 pandoc bdl.html -o text
 
+Footnote format in markdown:
+[^1]
+
+[^1]: actual footnote somewhere in doc
 
 Reg expression for finding text within brackets.
 \(([^)]+)\)
