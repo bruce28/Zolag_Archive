@@ -10,3 +10,11 @@ Footnote format in markdown:
 
 Reg expression for finding text within brackets.
 \(([^)]+)\)
+
+Pushing to Github
+
+git init in directory
+git clone url at github
+git add *.md
+git commit -m mymessage
+git push -u origin remote
