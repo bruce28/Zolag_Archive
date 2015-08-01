@@ -2,3 +2,7 @@ texi to markdown
 texi2html bdl.texi
 
 pandoc bdl.html -o text
+
+
+Reg expression for finding text within brackets.
+\(([^)]+)\)
