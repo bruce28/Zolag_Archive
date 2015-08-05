@@ -22,8 +22,8 @@ My aim with the site is to make this content available on all internet devices (
 
 ### Priorities
 
-- convert all doc texts to unedited markdown
-- compile a glossary for The Buddha's Path
+- convert all doc texts to unedited markdown.
+- New print edition of Survey of Paramattha Dhammas.
 
 
 Enjoy,
