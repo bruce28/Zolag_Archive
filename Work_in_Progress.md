@@ -1,6 +1,8 @@
 # Work in Progress
 A list of what I am currently working on:
 
+##2015-08-06 New edition of Survey of Paramattha Dhammas is now being edited.
+
 ## 2015-07-29 ADL update
 
 Abidhamma in Daily Life. Version for Gitbook ie Kindle and A4 printing version- 4 chapters completed.
