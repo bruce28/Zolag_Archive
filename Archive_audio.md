@@ -53,7 +53,6 @@ Bangkok (at the Foundation):
   1. 1 June
   
 Kaeng Krajaan:
-
   2. 4 June, morning
   3. 4 June, afternoon
   4. 5 June, morning
