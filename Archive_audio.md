@@ -16,6 +16,8 @@ Discussions on the development of insight July 2001 Bookmarked: 3 years ago
 11. 2001-07-30-2 - 20:05
 12. 2001-07-30-3 - 19:57
 
+---
+
 Discussions on the development of insight January 2007 Bookmarked: 3 years ago
 
 
@@ -29,6 +31,36 @@ Discussions on the development of insight January 2007 Bookmarked: 3 years ago
 8. 2007-01-10A-e - 20:14
 9. 2007-01-10A-f - 23:23
 
+---
+
 Buddhist Discussions Kaeng Krajaan and Bangkok Bookmarked: 4 years ago
 
 2007-01-09-b.mp3  
+
+---
+
+Discussions with Ajahn Sujin June 2013 at Kaeng Krajaan (and Bangkok)
+
+Edited and recorded by Jonothan and Sarah Abbott
+
+Published June 8, 2013
+
+Usage Attribution-No Derivative Works 3.0
+
+Topics buddhism, theravada, vipassana, insight, meditation
+
+Bangkok (at the Foundation):
+  1. 1 June
+  
+Kaeng Krajaan:
+
+  2. 4 June, morning
+  3. 4 June, afternoon
+  4. 5 June, morning
+  5. 5 June, at lunch
+  6. 5 June, afternoon
+  7. 6 June, morning
+  8. 6 June, at lunch
+  9. 8 June 
+
+---
