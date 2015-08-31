@@ -39,7 +39,7 @@ Buddhist Discussions Kaeng Krajaan and Bangkok Bookmarked: 4 years ago
 
 ---
 
-Discussions with Ajahn Sujin June 2013 at Kaeng Krajaan (and Bangkok)
+Discussions with Ajahn Sujin June 2013 at Kaeng Krajaan (and Bangkok) (Dhamma 2)
 
 Edited and recorded by Jonothan and Sarah Abbott
 
