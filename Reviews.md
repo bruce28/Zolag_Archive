@@ -21,6 +21,13 @@ I hope you get the opportunity to study this.
 
 www.amazon.co.uk (accessed July 2016)
 
+
+Sep 03 , 2015 **Moniek Zuidema rated it it was ok** (Google translate)
+
+After 6 years I have quite some Buddhist jargon , but this is going to far.
+It's all very interesting and wise, but totally inaccessible ; I could not get through .
+Goodreads (accessed July 2016)
+
 ---
 
 # Cetasikas
