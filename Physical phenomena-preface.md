@@ -1,4 +1,6 @@
 
+Extract from The Buddha's Teaching on Physical Phenomena:
+
 >That which is made of iron, wood or hemp is not astrong bond, say the wise; (but) that longing for jewels,ornaments, children and wives is far greater anattachment.Dhammapada (vs. 345).
 
 Attachment to people and possessions is strong, almost irresistible. We are infatuated by what we see, hear, smell, taste, experience through the bodysense and through the mind. However, all the different things we experience do not last. We lose people who are dear to us and we lose our possessions. We can ﬁnd out that attachment leads to sorrow, but at the moments of attachment we do not want to accept the truth of the impermanence of all things. We want pleasantobjects for ourselves, and we consider the “self” the most importantthing in the world.
