@@ -1,15 +1,14 @@
 # Abhidhamma in Daily Life
 
-ADL 5.0 out of 5 stars\\\\ **concise clear and spiritually alive teaching**
+ADL 5.0 out of 5 stars
 
-By A customeron 24 April 2000
+**concise clear and spiritually alive teaching**
 
-As a teacher myself in England working with students aged 13-18; I found the layout of the text to be of the clearest teaching methods that the most professional of teachers would employ. More so as a teacher of Religious Studies and a practising Buddhist I thank Nina for enlarging my understanding of the Dharma through such an interesting living approach to what can easily succumb to be a dreary intellectual task.
-
+As a teacher myself in England working with students aged 13-18; I found the layout of the text to be of the clearest teaching methods that the most professional of teachers would employ. More so as a teacher of Religious Studies and a practising Buddhist I thank Nina for enlarging my understanding of the Dharma through such an interesting living approach to what can easily succumb to be a dreary intellectual task. Amazon.com (accessed 15/10/17)
 
 **Abhidhamma made easy**
 
-BySarakanion 2 September 2006
+By Sarakanion 2 September 2006
 
 This book is about Cittas or types of consciousness in a Buddhist context. Ms Van Gorkhum has also written a recent book on Cetasika's or mental factors/flavours associated with consciousness and she has also written a book that may be out soon on the Pacchayas or conditional relations.
 
@@ -33,9 +32,13 @@ Goodreads (accessed July 2016)
 
 # The Buddha's Path
 
-5.0 out of 5 starsClear, accurate and packed with info.
+5.0 out of 5 stars 
+
+Clear, accurate and packed with info.
+
 By A customeron 20 November 2001 - Published on Amazon.com
-A thorough introduction to Buddhist ideas. The writer has a knack of relating profound concepts to daily life. The leif-motif of the book is anatta(not-self), the hardest part of the Buddha's word but also the key to it all. Buy it and also some of her other books (eg Abhidhamma in Daily Life).
+
+A thorough introduction to Buddhist ideas. The writer has a knack of relating profound concepts to daily life. The leif-motif of the book is anatta (not-self), the hardest part of the Buddha's word but also the key to it all. Buy it and also some of her other books (eg Abhidhamma in Daily Life). Amazon.com, (accessed 15/10/17)
 
 ---
 
