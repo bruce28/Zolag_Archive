@@ -30,6 +30,15 @@ Goodreads (accessed July 2016)
 
 ---
 
+
+# The Buddha's Path
+
+5.0 out of 5 starsClear, accurate and packed with info.
+By A customeron 20 November 2001 - Published on Amazon.com
+A thorough introduction to Buddhist ideas. The writer has a knack of relating profound concepts to daily life. The leif-motif of the book is anatta(not-self), the hardest part of the Buddha's word but also the key to it all. Buy it and also some of her other books (eg Abhidhamma in Daily Life).
+
+---
+
 # Cetasikas
 
 5.0 out of 5 stars **Essential for the serious Buddhist**
