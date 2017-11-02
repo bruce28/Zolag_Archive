@@ -40,6 +40,8 @@ By A customeron 20 November 2001 - Published on Amazon.com
 
 A thorough introduction to Buddhist ideas. The writer has a knack of relating profound concepts to daily life. The leif-motif of the book is anatta (not-self), the hardest part of the Buddha's word but also the key to it all. Buy it and also some of her other books (eg Abhidhamma in Daily Life). Amazon.com, (accessed 15/10/17)
 
+I consider "The Buddha's Path" to be the best introductory book on the Buddha's Teachings with its emphasis on understanding the truth of life at this very moment as taught by the Buddha. Sarah Abbott, Dhamma Study Group, Thailand (http://www.dhammahome.com/home_en.php)
+
 ---
 
 # Cetasikas
