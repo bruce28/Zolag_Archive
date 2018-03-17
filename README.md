@@ -1,7 +1,7 @@
 ### Buddha Code
 
 
-All of the files on this site are text files (utf-8 font needed) in various markup languages. Some have published in print form under the imprint of Zolag.
+All of the files on this site are text files (utf-8 font needed) in various markup languages. Some are published in print  under the imprint of Zolag.
 The extension indicates the markup language e.g:
 
 ```
@@ -22,6 +22,7 @@ My aim with the site is to make this content available on internet devices as we
 
 ### Priorities
 
+Archive unpublished content to the British Library.
 
 Enjoy,
 
