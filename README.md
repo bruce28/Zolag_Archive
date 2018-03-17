@@ -17,6 +17,9 @@ All of these texts are open, the type of licence is in the Book_info file. You  
 You can obtain most of these documents in pretty PDF or word docs from
 [archive.org](http://archive.org/bookmarks/Alan%20Weller)
 
+Alternatively, there are a few books here:
+https://www.gitbook.com/@alwell
+
 My aim with the site is to make this content available on internet devices as well as in print. 
 
 
