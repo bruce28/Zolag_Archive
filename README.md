@@ -17,13 +17,10 @@ All of these texts are open, the type of licence is in the Book_info file. You  
 You can obtain most of these documents in pretty PDF or word docs from
 [archive.org](http://archive.org/bookmarks/Alan%20Weller)
 
-My aim with the site is to make this content available on all internet devices (especially my new Firefox Os phone!) as well as in print. This site enables collaboration on texts, several people are able to edit a single article.
- I wish to have all these articles and books in markdown and then convert them to multitude of formats using Pandoc.
+My aim with the site is to make this content available on internet devices as well as in print. 
+
 
 ### Priorities
-
-- convert all doc texts to unedited markdown.
-- New print edition of Survey of Paramattha Dhammas.
 
 
 Enjoy,
