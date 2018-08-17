@@ -33,3 +33,8 @@ give an association of meaning which is different from the mean-
 ing intended by the Buddhist teachings.
 
 preface BP
+
+---
+The Pali term dukkha is to be preferred, since the word “suffering” does
+not cover completely the meaning of the first noble Truth.
+
