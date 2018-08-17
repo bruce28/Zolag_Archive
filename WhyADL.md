@@ -1,0 +1,16 @@
+'We need the terms, because the English translations of the terms are different and not always correct.'
+
+Many translate sammasankappa wrongly as right intention, thereby adding to great confusion as to the development of the eightfold Path. As if there is any intention to develop it. Cetanaa is usually translated as intention or volition.
+Vitakka touches the object so that citta can experience it. Sammasankappa touches the nama or rupa that appears, so that panna can know it as it is.
+
+Precision: Love
+
+Depth of understanding. Helps to correct wrong practice.
+
+Helps understand anatta.
+
+Concept and reality, refers to daily life
+
+It is difficult be content to learn it a small bit at a time. The Buddha's path nis and easy starting point.
+
+Common ground opens up audio etc.
