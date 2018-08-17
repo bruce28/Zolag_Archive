@@ -40,6 +40,12 @@ not cover completely the meaning of the first noble Truth.
 
 ---
 
+Addio where 
+N0 44?   2013,01,11 am a 8.40mins all dhammas are non self 26.04
+Is this moment anatta?
+
+---
+
 The deep meaning
 of the suttas cannot be understood without a basic study of the
 Abhidhamma. The field of the Abhidhamma is immense and we
