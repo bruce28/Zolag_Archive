@@ -38,3 +38,21 @@ preface BP
 The Pali term dukkha is to be preferred, since the word “suffering” does
 not cover completely the meaning of the first noble Truth.
 
+---
+
+The deep meaning
+of the suttas cannot be understood without a basic study of the
+Abhidhamma. The field of the Abhidhamma is immense and we
+cannot grasp the whole contents. However, when one begins to
+study it, at least in part, one will see that it can be of great
+assistance for the understanding of our life. Some people have
+doubt as to the authenticity of the Abhidhamma, they doubt
+whether it is the teaching of the Buddha himself. As one studies
+the Abhidhamma one will see for oneself that the Abhidhamma
+teaches about phenomena which can be experienced at this mo-
+ment. The Abhidhamma deals with seeing, visible object, with
+all experiences through the senses and the mind, with all whole-
+some qualities, with all defilements. The different parts of the
+scriptures are one, they are the Buddha’s teachings.
+Ch2 bp
+
