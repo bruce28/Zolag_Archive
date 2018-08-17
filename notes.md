@@ -22,3 +22,14 @@ and therefore it is necessary to go into details. preface BP
 One should know
 that it takes time and patience to understand what this Path is
 and how one can begin to develop it.BP preface
+
+In this book I have used a few P ̄
+ ali terms which can be of
+use to those who intend to deepen their knowledge of Buddhism.
+The English equivalents of the P ̄
+ ali terms are frequently unsat-
+isfactory since they stem from Western philosophy and therefore
+give an association of meaning which is different from the mean-
+ing intended by the Buddhist teachings.
+
+preface BP
