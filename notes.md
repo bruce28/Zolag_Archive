@@ -16,6 +16,9 @@ it clear: this fact that all phenomena are impermanent.”
 ---
 
 The Buddha’s teachings are subtle and deep
-and therefore it is necessary to go into details. BP
+and therefore it is necessary to go into details. preface BP
 
 ---
+One should know
+that it takes time and patience to understand what this Path is
+and how one can begin to develop it.BP preface
