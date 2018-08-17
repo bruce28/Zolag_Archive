@@ -14,3 +14,8 @@ makes it plain. He shows it, he opens it up, explains and makes
 it clear: this fact that all phenomena are impermanent.”
 
 ---
+
+The Buddha’s teachings are subtle and deep
+and therefore it is necessary to go into details. BP
+
+---
