@@ -18,14 +18,12 @@ You can obtain most of these documents in pretty PDF or word docs from
 [archive.org](http://archive.org/bookmarks/Alan%20Weller)
 
 Alternatively, there are a few books here:
-https://www.gitbook.com/@alwell
+https://legacy.gitbook.com/@alwell/dashboard
 
-My aim with the site is to make this content available on internet devices as well as in print. 
+My aim with the site is twofold 
 
-
-### Priorities
-
-Archive unpublished content to the British Library.
+1. to make this content available on internet devices as well as in print. 
+2. To archive published and unpublished content to the British Library and Archive.org
 
 Enjoy,
 
