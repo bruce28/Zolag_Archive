@@ -37,6 +37,12 @@ By far the quickest way to build a presentation. Don't think about design, think
 
 ### https://www.overleaf.com/
 
+### https://simplenote.com/
+
+
+The simplest way to keep and publish notes. Light, clean, and free. Simplenote is now available for iOS, Android, Mac, Windows, Linux, and the web.
+
+
 Shared Latex editor
 
 ### https://sourceforge.net/projects/grsync/
