@@ -1,3 +1,5 @@
+DONE
+
 (Letters 3and4 nothing	]
 
 Letter 5: p.57 above: line 4: together with all the other accumulated sobhana cetasikas, a supporting…
