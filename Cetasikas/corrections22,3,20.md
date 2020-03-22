@@ -1,0 +1,1 @@
+Follow up correction, Cetasikas, p 249,250, I erase the same sutta as in ADL, Ch 16, for th same reasson: not confusing ayatanas and objects. This sutta is about ayatanas. Erase from: We read, for example, in the Middle Length Sayings…until, p. 250, § 3. And erase  :This sutta reminds us that. Instead:Each reality which appears through…(as is)
